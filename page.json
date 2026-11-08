@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "id": "hkbhgudkq7",
+      "name": {
+        "tr": "Çiçekler",
+        "en": "Flowers",
+        "ar": "الزهور"
+      },
+      "description": {
+        "tr": "Mevsime göre değişen seçenekler; renk ve boyut için talep formuna not yazabilirsiniz.",
+        "en": "Options change with the season; add a note about colour and size in the request form.",
+        "ar": "تتغير الخيارات بحسب الموسم؛ ويمكنك كتابة ملاحظة عن اللون والحجم في نموذج الطلب."
+      },
+      "path": "cicekler",
+      "icon": "local_florist",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ukorwt",
+          "xro0vs",
+          "sj00al"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "xtrjw8d3z4",
+      "name": {
+        "tr": "Sipariş Talebi",
+        "en": "Order Request",
+        "ar": "طلب شراء"
+      },
+      "description": {
+        "tr": "Ürünü ve teslimat gününü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Ödeme alınmaz. ",
+        "en": "Choose the item and delivery day; on this demo site your request is created only in your browser. No payment is taken.",
+        "ar": "اختر المنتج ويوم التسليم؛ يُنشأ طلبك في متصفحك فقط. لا يُؤخذ أي دفع."
+      },
+      "path": "siparis-talebi",
+      "icon": "shopping_basket",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "rqz3wf"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "10mqv4c6ay",
+      "name": {
+        "tr": "Teslimat ve İade",
+        "en": "Delivery and Returns",
+        "ar": "التسليم والإرجاع"
+      },
+      "description": {
+        "tr": "Teslimat penceresi, cayma hakkı istisnası ve alıcı verisi bilgisi.",
+        "en": "Delivery windows, the withdrawal exception and recipient-data information.",
+        "ar": "فترات التسليم واستثناء حق العدول ومعلومات بيانات المستلم."
+      },
+      "path": "teslimat-iade",
+      "icon": "local_shipping",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "4we020"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "qtizmp47k3",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Buketler, aranjmanlar ve organizasyon çalışmalarından görüntüler.",
+        "en": "Views of bouquets, arrangements and event work.",
+        "ar": "صور من الباقات والتنسيقات وأعمال الفعاليات."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "nh44oz"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "tgg16ahms1",
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "description": {
+        "tr": "Sarı Papatya Çiçekçilik, mevsiminde ve yakın kaynaktan temin edilen çiçeklerle çalışan kurgusal bir demo çiçekçidir. Alıcının adı, adresi ve telefonu sipariş veren kişiden alınan üçüncü kişi verisidir; yalnızca teslimat için kullanılır ve aydınlatma metnimizde açıklanır.",
+        "en": "Sari Papatya Florist is a fictional demo florist working with seasonal flowers from nearby sources. The recipient’s name, address and phone are third-party data obtained from the person placing the order; they are used only for delivery and are explained in our privacy notice.",
+        "ar": "ساري باباتيا للزهور محل زهور تجريبي افتراضي يعمل بزهور الموسم من مصادر قريبة. اسم المستلم وعنوانه وهاتفه بيانات طرف ثالث تُؤخذ من مقدّم الطلب؛ وتُستخدم للتسليم فقط ويُوضَّح ذلك في نص الخصوصية لدينا."
+      },
+      "path": "hakkimizda",
+      "icon": "info",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "9dzvb1",
+          "nps2hn"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "ruzcnr",
+          "t4mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

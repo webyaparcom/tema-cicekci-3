@@ -1,0 +1,43 @@
+{
+  "id": "10mqv4c6ay",
+  "name": {
+    "tr": "Teslimat ve İade",
+    "en": "Delivery and Returns",
+    "ar": "التسليم والإرجاع"
+  },
+  "description": {
+    "tr": "Teslimat penceresi, cayma hakkı istisnası ve alıcı verisi bilgisi.",
+    "en": "Delivery windows, the withdrawal exception and recipient-data information.",
+    "ar": "فترات التسليم واستثناء حق العدول ومعلومات بيانات المستلم."
+  },
+  "keyword": {
+    "tr": "teslimat, iade",
+    "en": "delivery, returns",
+    "ar": "تسليم، إرجاع"
+  },
+  "path": "teslimat-iade",
+  "icon": "local_shipping",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "4we020"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<h2>Teslimat ve iade</h2><p>Siparişler seçilen gün ve saat aralığında teslim edilir; alıcıya ulaşılamazsa sipariş veren bilgilendirilir.</p><p><strong>Cayma:</strong> Çiçekler çabuk bozulan mallardır; 6502 sayılı Kanun md. 15/c uyarınca bu ürünlerde cayma hakkı kullanılamaz. Hasarlı ya da yanlış teslimde aynı gün bildirimle yenileme yapılır.</p><p><strong>Alıcı verisi:</strong> Alıcının adı, adresi ve telefonu sipariş veren kişiden alınan üçüncü kişi verisidir; yalnızca teslimat için kullanılır ve aydınlatma metnimizde açıklanır.</p><p><em>Demo sitedir; koşullar örnektir.</em></p>",
+    "en": "<h2>Delivery and returns</h2><p>Orders are delivered within the chosen day and time window; if the recipient cannot be reached the sender is informed.</p><p><strong>Withdrawal:</strong> Flowers are perishable goods; under Law No. 6502 art. 15/c the right of withdrawal cannot be exercised for them. For damaged or wrong deliveries, report the same day and we will replace the order.</p><p><strong>Recipient data:</strong> The recipient’s name, address and phone are third-party data obtained from the person placing the order; they are used only for delivery and are explained in our privacy notice.</p><p><em>This is a demo site; the terms are examples.</em></p>",
+    "ar": "<h2>التسليم والإرجاع</h2><p>تُسلَّم الطلبات في اليوم والفترة الزمنية المختارين؛ وإذا تعذّر الوصول إلى المستلم يُبلَّغ مقدّم الطلب.</p><p><strong>العدول:</strong> الزهور سلع سريعة التلف؛ وبموجب المادة 15/ج من القانون التركي رقم 6502 لا يمكن ممارسة حق العدول عنها. وفي حال التسليم التالف أو الخاطئ يُبلَّغ في اليوم نفسه ويُستبدل الطلب.</p><p><strong>بيانات المستلم:</strong> اسم المستلم وعنوانه وهاتفه بيانات طرف ثالث تُؤخذ من مقدّم الطلب؛ وتُستخدم للتسليم فقط ويُوضَّح ذلك في نص الخصوصية لدينا.</p><p><em>هذا موقع تجريبي والشروط أمثلة.</em></p>"
+  },
+  "title": {
+    "tr": "Teslimat ve İade",
+    "en": "Delivery and Returns",
+    "ar": "التسليم والإرجاع"
+  },
+  "date": "2026-10-31T14:42:46.675Z",
+  "update": "2026-11-05T19:38:44.327Z"
+}

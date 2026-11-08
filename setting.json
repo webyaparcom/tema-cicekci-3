@@ -1,0 +1,58 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Sarı Papatya Çiçekçilik: renkli buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+    "en": "Sari Papatya Florist: colourful bouquets, arrangements, wedding and event flowers; same-day delivery requests. (Demo site)",
+    "ar": "ساري باباتيا للزهور: باقات ملونة وتنسيقات وزهور الأعراس والفعاليات مع طلب التسليم في اليوم نفسه. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "çiçekçi, buket, organizasyon",
+    "en": "florist, bouquet, events",
+    "ar": "محل زهور، باقة، فعاليات"
+  },
+  "category": "Kurumsal",
+  "name": "Sarı Papatya Çiçekçilik",
+  "domain": "cicekci-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#A16207",
+  "publishMode": "static",
+  "font": {
+    "body": "open-sans",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "phone": "+90 342 000 00 00",
+  "email": "siparis@saripapatya.example",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "7px",
+    "--mx-radius-md": "12px",
+    "--mx-radius-lg": "17px",
+    "--mx-radius-xl": "23px",
+    "--mx-shadow-md": "0 20px 50px rgba(161,98,7,.16)",
+    "--mx-dur": "280ms"
+  }
+}

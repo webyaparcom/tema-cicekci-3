@@ -1,0 +1,39 @@
+{
+  "id": "xtrjw8d3z4",
+  "name": {
+    "tr": "Sipariş Talebi",
+    "en": "Order Request",
+    "ar": "طلب شراء"
+  },
+  "description": {
+    "tr": "Ürünü ve teslimat gününü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Ödeme alınmaz. ",
+    "en": "Choose the item and delivery day; on this demo site your request is created only in your browser. No payment is taken.",
+    "ar": "اختر المنتج ويوم التسليم؛ يُنشأ طلبك في متصفحك فقط. لا يُؤخذ أي دفع."
+  },
+  "keyword": {
+    "tr": "çiçekçi, buket, organizasyon",
+    "en": "florist, bouquet, events",
+    "ar": "محل زهور، باقة، فعاليات"
+  },
+  "path": "siparis-talebi",
+  "icon": "shopping_basket",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "rqz3wf"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Sipariş Talebi",
+    "en": "Order Request",
+    "ar": "طلب شراء"
+  },
+  "date": "2026-10-31T14:42:46.678Z",
+  "update": "2026-11-05T19:38:44.331Z"
+}

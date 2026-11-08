@@ -1,0 +1,41 @@
+{
+  "id": "hkbhgudkq7",
+  "name": {
+    "tr": "Çiçekler",
+    "en": "Flowers",
+    "ar": "الزهور"
+  },
+  "description": {
+    "tr": "Mevsime göre değişen seçenekler; renk ve boyut için talep formuna not yazabilirsiniz.",
+    "en": "Options change with the season; add a note about colour and size in the request form.",
+    "ar": "تتغير الخيارات بحسب الموسم؛ ويمكنك كتابة ملاحظة عن اللون والحجم في نموذج الطلب."
+  },
+  "keyword": {
+    "tr": "çiçekçi, buket, organizasyon",
+    "en": "florist, bouquet, events",
+    "ar": "محل زهور، باقة، فعاليات"
+  },
+  "path": "cicekler",
+  "icon": "local_florist",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "ukorwt",
+      "xro0vs",
+      "sj00al"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Çiçekler",
+    "en": "Flowers",
+    "ar": "الزهور"
+  },
+  "date": "2026-10-31T14:42:46.673Z",
+  "update": "2026-11-05T19:38:44.324Z"
+}
