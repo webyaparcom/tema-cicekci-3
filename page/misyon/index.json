@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, mevsiminde ve özenle hazırlanmış çiçeklerle sevinçleri ve anıları güzelleştirmektir.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to brighten joys and memories with seasonal, carefully prepared flowers.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا إضفاء الجمال على الأفراح والذكريات بزهور الموسم المحضّرة بعناية.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "4we020",
+      "sj00al"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2026-11-05T19:38:44.371Z",
+  "date": "2026-05-19"
+}

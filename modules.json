@@ -1,0 +1,3014 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü 4",
+      "path": "menu-4",
+      "local": "header",
+      "category": "menu",
+      "id": "t4mn01",
+      "desing": {
+        "logo": "logo.png",
+        "color": "#111111",
+        "height": "100px",
+        "background-color": "#F9B200",
+        "menubg": "",
+        "menutext": "#fff",
+        "menuhoverbg": "rgba(255,255,255,.18)"
+      },
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "id": "t4sl01",
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        }
+      ],
+      "desing": {
+        "delay": 3000,
+        "margin": "0px 0 0 0"
+      },
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "index": 1
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-4",
+      "local": "body",
+      "category": "contact",
+      "id": "t4ct01",
+      "desing": {
+        "color": "#111111",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px",
+        "height": "250px",
+        "bgcolor": "#ffffff"
+      },
+      "data": [
+        {
+          "data": [
+            {
+              "icon": "location_on",
+              "name": {
+                "tr": "ADRES"
+              },
+              "text": "Şehitkamil / Gaziantep",
+              "externalUrl": ""
+            },
+            {
+              "icon": "call",
+              "name": {
+                "tr": "TELEFON"
+              },
+              "text": "0530 000 00 00",
+              "url": "tel:05300000000"
+            },
+            {
+              "icon": "mail",
+              "name": {
+                "tr": "MAİL"
+              },
+              "text": "info@{{domain}}",
+              "externalUrl": ""
+            }
+          ]
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 2
+    },
+    {
+      "name": "Maps",
+      "path": "map-2",
+      "local": "body",
+      "category": "map",
+      "id": "t4mp01",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#ffffff",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "img": "map.png",
+        "externalUrl": "",
+        "stil": "cerceveli",
+        "address": {
+          "tr": "Çiçek Sk. No: 5, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "5 Cicek Street, Sahinbey, Gaziantep (fictional address)",
+          "ar": "شارع الزهور رقم 5، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "phone": "+90 342 000 00 00",
+        "email": "siparis@saripapatya.example",
+        "margin": "0px"
+      },
+      "version": "1.0.0",
+      "icon": "map",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "Page Desing",
+      "path": "page-desing-4",
+      "local": "body",
+      "category": "page",
+      "id": "t4pd01",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "var(--mx-site-primary, #2563eb)",
+        "menu-active": "var(--mx-site-primary, #2563eb)",
+        "category": "page",
+        "textcolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "activetext": "var(--mx-site-primary-contrast, #ffffff)"
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "name": "Footer 2",
+      "path": "footer-2",
+      "local": "footer",
+      "category": "footer",
+      "id": "t4ft01",
+      "desing": {
+        "color": "#F9B200",
+        "logo": "logo.png",
+        "copyright": "© Tüm hakları saklıdır",
+        "wave_animation": true,
+        "social_icons": [
+          "facebook",
+          "twitter",
+          "instagram"
+        ],
+        "menu_items": [],
+        "alternative_design": true,
+        "showlang": true
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "index": 5
+    },
+    {
+      "id": "t4hr01",
+      "name": "Hero",
+      "path": "hero-1",
+      "local": "body",
+      "category": "hero",
+      "version": "1.1.0",
+      "icon": "hero",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #111111 0%, #111111cc 50%, #111111 100%)",
+        "overlay": "linear-gradient(135deg, rgba(17, 17, 17, 0.88) 0%, rgba(17, 17, 17, 0.82) 100%)",
+        "title_accent": "linear-gradient(135deg, #F9B200, #F9B200)",
+        "btn_primary_bg": "#F9B200",
+        "btn_primary_color": "#111111",
+        "stat_accent": "#F9B200",
+        "shape1": "linear-gradient(135deg, rgba(249, 178, 0, 0.4), rgba(249, 178, 0, 0.12))",
+        "shape2": "linear-gradient(135deg, rgba(17, 17, 17, 0.55), rgba(17, 17, 17, 0.25))",
+        "shape3": "linear-gradient(135deg, rgba(255,255,255,0.14), rgba(255,255,255,0.04))",
+        "title": {
+          "tr": "Kurumsal Çözümlerle Yanınızdayız",
+          "en": "Corporate Solutions"
+        },
+        "description": {
+          "tr": "Profesyonel ekibimizle markanıza özel hizmetler sunuyoruz.",
+          "en": "Tailored services for your brand."
+        },
+        "badge": {
+          "tr": "Güvenilir Partner",
+          "en": "Trusted Partner"
+        },
+        "image": "",
+        "alt": {
+          "tr": "Hero",
+          "en": "Hero"
+        },
+        "btn1": {
+          "tr": "Keşfet",
+          "en": "Explore"
+        },
+        "btn1_url": "urunler",
+        "btn2": {
+          "tr": "İletişim",
+          "en": "Contact"
+        },
+        "btn2_url": "iletisim",
+        "stats": "150+|Proje|50+|Müşteri|10+|Yıl",
+        "stil": ""
+      },
+      "index": 6
+    },
+    {
+      "id": "t4ls01",
+      "name": "Ana Sayfa Liste",
+      "path": "page-list-2",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "page",
+        "size": 3,
+        "category": "",
+        "bgcolor": "#fff",
+        "color": "#000",
+        "aspect-ratio": "1 / 1"
+      },
+      "index": 7
+    },
+    {
+      "id": "t4ca01",
+      "name": "CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "version": "1.1.0",
+      "icon": "campaign",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #111111 0%, #111111ee 100%)",
+        "btnbg": "#F9B200",
+        "btncolor": "#111111",
+        "title": {
+          "tr": "Projenizi Birlikte Hayata Geçirelim",
+          "en": "Let's Build Together"
+        },
+        "description": {
+          "tr": "Ücretsiz keşif görüşmesi icin hemen iletisime geçin.",
+          "en": "Contact us for a free discovery call."
+        },
+        "btn1Text": {
+          "tr": "İletişime Gec",
+          "en": "Contact"
+        },
+        "btn1Url": "iletisim",
+        "btn2Text": {
+          "tr": "Ürünler",
+          "en": "Products"
+        },
+        "btn2Url": "urunler",
+        "stil": ""
+      },
+      "index": 8
+    },
+    {
+      "id": "t4plpr",
+      "name": "Ürünler Liste",
+      "path": "page-list-2",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "products",
+        "size": 3,
+        "category": "",
+        "bgcolor": "#fff",
+        "color": "#000",
+        "aspect-ratio": "1 / 1"
+      },
+      "index": 9
+    },
+    {
+      "id": "t4in01",
+      "name": "Tanitim",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "version": "1.1.0",
+      "icon": "business",
+      "index": 10,
+      "desing": {
+        "name": {
+          "tr": "Bizi Tanıyın",
+          "en": "About Us"
+        },
+        "description": {
+          "tr": "Yılların deneyimi ve uzman kadromuzla kurumsal çözümler sunuyoruz.",
+          "en": "Corporate solutions with experience and expertise."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Vision"
+        },
+        "spot2": {
+          "tr": "Sektörümüzde yenilikçi yaklaşımlarla öncü olmak.",
+          "en": "Lead with innovation."
+        },
+        "icon2": "visibility",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Mission"
+        },
+        "spot3": {
+          "tr": "İhtiyaç duyulan çözümleri hızlı ve şeffaf sunmak.",
+          "en": "Deliver solutions fast and clearly."
+        },
+        "icon3": "flag",
+        "img": "index.jpg",
+        "bgcolor": "#111111",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20",
+        "title": {
+          "tr": "Kurumsal",
+          "en": "Corporate"
+        },
+        "stil": ""
+      }
+    },
+    {
+      "name": "Demo Kredi Şeridi",
+      "description": "Demo sitelerin alt bilgisinde duran kredi şeridi: «Bu demo Webyapar tarafından hazırlanmıştır — Bu temayı iste». Marka adı çevrilmez (Latin, dir=ltr izole), bağlantı demo adına göre webyapar.com/temalar#<slug>. Üç dil (TR/EN/AR), mantıksal CSS (RTL), mobilde sarar, reduced-motion'a saygılı.",
+      "version": "1.0.0",
+      "icon": "campaign",
+      "category": "demo",
+      "tags": [
+        "demo",
+        "footer",
+        "kredi",
+        "rtl"
+      ],
+      "desing": {
+        "href": "https://webyapar.com/temalar#cicekci",
+        "brand": "Webyapar",
+        "text": {
+          "tr": "Bu demo {brand} tarafından hazırlanmıştır —",
+          "en": "This demo was prepared by {brand} —",
+          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —"
+        },
+        "ctaText": {
+          "tr": "Bu temayı iste",
+          "en": "Get this theme",
+          "ar": "اطلب هذا القالب"
+        },
+        "newTabText": {
+          "tr": "(yeni sekmede açılır)",
+          "en": "(opens in a new tab)",
+          "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "ariaLabel": {
+          "tr": "Demo bilgisi",
+          "en": "Demo credit",
+          "ar": "معلومات العرض التجريبي"
+        }
+      },
+      "id": "huukih",
+      "path": "demo-kredi",
+      "local": "footer",
+      "data": [],
+      "index": 11
+    },
+    {
+      "name": "Kurumsal Değerler 1",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "titlecolor": "var(--mx-site-text, #1b1b1b)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "badgebg": "#2E6BFF",
+        "badgecolor": "#ffffff",
+        "badge": {
+          "tr": "Koleksiyon",
+          "en": "Collection",
+          "ar": "المجموعة"
+        },
+        "title": {
+          "tr": "Buketler ve aranjmanlar",
+          "en": "Bouquets and arrangements",
+          "ar": "باقات وتنسيقات"
+        },
+        "description": {
+          "tr": "Mevsime göre değişen seçenekler; renk ve boyut için talep formuna not yazabilirsiniz.",
+          "en": "Options change with the season; add a note about colour and size in the request form.",
+          "ar": "تتغير الخيارات بحسب الموسم؛ ويمكنك كتابة ملاحظة عن اللون والحجم في نموذج الطلب."
+        }
+      },
+      "data": [
+        {
+          "icon": "spa",
+          "name": {
+            "tr": "Pembe gül buketi",
+            "en": "Pink rose bouquet",
+            "ar": "باقة ورد وردي"
+          },
+          "description": {
+            "tr": "Kâğıtla sarılı, kurdeleli klasik gül buketi.",
+            "en": "A classic rose bouquet wrapped in paper and ribbon.",
+            "ar": "باقة ورد كلاسيكية ملفوفة بالورق والشريط."
+          }
+        },
+        {
+          "icon": "local_florist",
+          "name": {
+            "tr": "Lale demeti",
+            "en": "Tulip bunch",
+            "ar": "حزمة توليب"
+          },
+          "description": {
+            "tr": "Mevsim lalelerinden sade demet.",
+            "en": "A plain bunch of seasonal tulips.",
+            "ar": "حزمة بسيطة من توليب الموسم."
+          }
+        },
+        {
+          "icon": "grass",
+          "name": {
+            "tr": "Kır çiçeği buketi",
+            "en": "Wildflower bouquet",
+            "ar": "باقة زهور برية"
+          },
+          "description": {
+            "tr": "Renkli, doğal görünümlü karışık buket.",
+            "en": "A colourful, natural-looking mixed bouquet.",
+            "ar": "باقة مختلطة ملونة بمظهر طبيعي."
+          }
+        },
+        {
+          "icon": "yard",
+          "name": {
+            "tr": "Beyaz zambak aranjman",
+            "en": "White lily arrangement",
+            "ar": "تنسيق زنبق أبيض"
+          },
+          "description": {
+            "tr": "Vazo içinde şık beyaz aranjman.",
+            "en": "An elegant white arrangement in a vase.",
+            "ar": "تنسيق أبيض أنيق داخل مزهرية."
+          }
+        },
+        {
+          "icon": "potted_plant",
+          "name": {
+            "tr": "Saksı orkide",
+            "en": "Potted orchid",
+            "ar": "أوركيد في أصيص"
+          },
+          "description": {
+            "tr": "Uzun ömürlü, bakımı kolay saksı çiçeği.",
+            "en": "A long-lasting, easy-care potted flower.",
+            "ar": "نبتة أصيص طويلة العمر سهلة العناية."
+          }
+        },
+        {
+          "icon": "celebration",
+          "name": {
+            "tr": "Düğün ve organizasyon",
+            "en": "Weddings and events",
+            "ar": "الأعراس والفعاليات"
+          },
+          "description": {
+            "tr": "Masa, kapı ve alan süslemeleri; keşif için randevu gerekir.",
+            "en": "Table, entrance and venue decoration; a visit appointment is needed.",
+            "ar": "تزيين الطاولات والمداخل والقاعات؛ ويلزم موعد معاينة."
+          }
+        }
+      ],
+      "category": "values",
+      "description": "Kurumsal değer kartları (MLA tarzı dört sütun). Rakam yok; ikon, başlık ve kısa açıklama. Animasyon, mobil tek sütun ve prefers-reduced-motion destekler.",
+      "version": "1.0.0",
+      "icon": "diamond",
+      "id": "ukorwt",
+      "path": "values-1",
+      "local": "body",
+      "index": 12
+    },
+    {
+      "name": "Zaman Çizelgesi 1",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "titlecolor": "var(--mx-site-text, #1b1b1b)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "badge": {
+          "tr": "Sipariş",
+          "en": "Ordering",
+          "ar": "الطلب"
+        },
+        "title": {
+          "tr": "Talepten teslimata",
+          "en": "From request to delivery",
+          "ar": "من الطلب إلى التسليم"
+        },
+        "description": {
+          "tr": "Dört adımda çiçek gönderin.",
+          "en": "Send flowers in four steps.",
+          "ar": "أرسل زهورًا بأربع خطوات."
+        },
+        "accentText": "#ffffff",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+      },
+      "data": [
+        {
+          "year": "01",
+          "title": {
+            "tr": "Seçim",
+            "en": "Choose",
+            "ar": "الاختيار"
+          },
+          "text": {
+            "tr": "Buketi ve teslimat gününü seçin.",
+            "en": "Pick the bouquet and delivery day.",
+            "ar": "اختر الباقة ويوم التسليم."
+          }
+        },
+        {
+          "year": "02",
+          "title": {
+            "tr": "Kart notu",
+            "en": "Card message",
+            "ar": "رسالة البطاقة"
+          },
+          "text": {
+            "tr": "İsterseniz kısa bir not yazın.",
+            "en": "Add a short note if you like.",
+            "ar": "اكتب ملاحظة قصيرة إن أردت."
+          }
+        },
+        {
+          "year": "03",
+          "title": {
+            "tr": "Onay",
+            "en": "Confirmation",
+            "ar": "التأكيد"
+          },
+          "text": {
+            "tr": "Talebiniz teyit edilir ve teslimat penceresi bildirilir.",
+            "en": "Your request is confirmed and the delivery window is shared.",
+            "ar": "يُؤكَّد طلبك وتُبلَّغ بفترة التسليم."
+          }
+        },
+        {
+          "year": "04",
+          "title": {
+            "tr": "Teslimat",
+            "en": "Delivery",
+            "ar": "التسليم"
+          },
+          "text": {
+            "tr": "Çiçekler özenle paketlenip adrese ulaştırılır.",
+            "en": "The flowers are carefully packed and delivered to the address.",
+            "ar": "تُغلَّف الزهور بعناية وتُسلَّم إلى العنوان."
+          }
+        }
+      ],
+      "category": "timeline",
+      "description": "Zaman çizelgesi modülü. Kurumsal tarihçe, süreç adımları veya yol haritasını dikey çizgi + yıl rozetiyle listeler. Çok dilli başlık/metin ve animasyonlu giriş içerir.",
+      "version": "1.0.0",
+      "icon": "timeline",
+      "id": "35qfob",
+      "path": "timeline-1",
+      "local": "body",
+      "index": 13
+    },
+    {
+      "name": "SSS Akordeon 1",
+      "desing": {
+        "max": "900px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "titlecolor": "var(--mx-site-text, #1b1b1b)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "badge": {
+          "tr": "SSS",
+          "en": "FAQ",
+          "ar": "الأسئلة الشائعة"
+        },
+        "title": {
+          "tr": "Sıkça sorulan sorular",
+          "en": "Frequently asked questions",
+          "ar": "الأسئلة الشائعة"
+        },
+        "description": {
+          "tr": "Merak edilenler ve kısa yanıtlar.",
+          "en": "Common questions and short answers.",
+          "ar": "أسئلة متكررة وإجابات موجزة."
+        },
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+      },
+      "data": [],
+      "category": "faq",
+      "description": "SSS akordeon modülü. Soru-cevap listesini tek seferde bir açık olacak şekilde akordeon düzende gösterir. Çok dilli veri, animasyonlu açılış, mobil uyum ve erişilebilirlik (aria-expanded) desteği içerir.",
+      "version": "1.0.0",
+      "icon": "quiz",
+      "id": "qhtn9j",
+      "path": "faq-1",
+      "local": "body",
+      "index": 14
+    },
+    {
+      "name": "Tanıtım Modülü",
+      "local": "body",
+      "desing": {
+        "stil": "yuzen-gorsel",
+        "name": {
+          "tr": "Sarı Papatya Çiçekçilik",
+          "en": "Sari Papatya Florist",
+          "ar": "ساري باباتيا للزهور"
+        },
+        "description": {
+          "tr": "Sarı Papatya Çiçekçilik, mevsiminde ve yakın kaynaktan temin edilen çiçeklerle çalışan kurgusal bir demo çiçekçidir. Alıcının adı, adresi ve telefonu sipariş veren kişiden alınan üçüncü kişi verisidir; yalnızca teslimat için kullanılır ve aydınlatma metnimizde açıklanır.",
+          "en": "Sari Papatya Florist is a fictional demo florist working with seasonal flowers from nearby sources. The recipient’s name, address and phone are third-party data obtained from the person placing the order; they are used only for delivery and are explained in our privacy notice.",
+          "ar": "ساري باباتيا للزهور محل زهور تجريبي افتراضي يعمل بزهور الموسم من مصادر قريبة. اسم المستلم وعنوانه وهاتفه بيانات طرف ثالث تُؤخذ من مقدّم الطلب؛ وتُستخدم للتسليم فقط ويُوضَّح ذلك في نص الخصوصية لدينا."
+        },
+        "name2": {
+          "tr": "Taze çiçek",
+          "en": "Fresh flowers",
+          "ar": "زهور طازجة"
+        },
+        "spot2": {
+          "tr": "Çiçekler sabah soğuk zincirden alınır, gün içinde hazırlanır.",
+          "en": "Flowers are taken from cold storage in the morning and prepared during the day.",
+          "ar": "تُؤخذ الزهور من التبريد صباحًا وتُحضَّر خلال اليوم."
+        },
+        "icon2": "eco",
+        "name3": {
+          "tr": "El yapımı",
+          "en": "Handmade",
+          "ar": "صناعة يدوية"
+        },
+        "spot3": {
+          "tr": "Her buket sipariş üzerine, elde hazırlanır.",
+          "en": "Every bouquet is made by hand to order.",
+          "ar": "تُصنع كل باقة يدويًا حسب الطلب."
+        },
+        "icon3": "back_hand",
+        "img": "cicekci-3-buket-lale.webp",
+        "bgcolor": "var(--mx-site-surface-2, #ececea)",
+        "fontcolor": "var(--mx-site-text, #1b1b1b)",
+        "margintop": "20",
+        "marginbotton": "20",
+        "title": {
+          "tr": "Hakkımızda",
+          "en": "About us",
+          "ar": "من نحن"
+        }
+      },
+      "category": "module",
+      "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (beyaz çerçeveli yuvarlak görsel, bugünkü görünüm) · \"yuzen-gorsel\" (dik kart görsel bandın dışına taşar, gölgeli, hafif eğik) · \"cerceve-ofset\" (kare görsel, arkasında kaymış primary renk çerçeve) · \"ikon-liste\" (yatay görsel + vizyon/misyon ikonlu madde listesi; ikon icon2/icon3). Bant zemini/yazısı bgcolor/fontcolor çifti kalır; eklenen renkler yalnız var(--mx-site-*) token.",
+      "version": "1.2.0",
+      "icon": "business",
+      "id": "9dzvb1",
+      "path": "module-1",
+      "data": [],
+      "index": 15
+    },
+    {
+      "name": "Galeri Masonry (Filtre + Lightbox)",
+      "description": "Masonry (sütun) ya da sabit oranlı ızgara galeri: kategori çipleriyle filtre (?cat= URL durumu, aria-pressed), lightbox (klavye, filtrelenmişte yalnız görünenler gezilir), lazy yükleme (width/height ile CLS yok), görselsiz öğede nötr yer tutucu. gap:0 ile kenarsız ızgara, hover başlık. Öğeler data[] içinde {img, thumb?, title{tr,en,ar}, cat, w, h, alt{tr,en,ar}}; kategoriler desing.cats[]. Üç dil + RTL.",
+      "version": "1.0.0",
+      "icon": "photo_library",
+      "category": "galeri",
+      "tags": [
+        "galeri",
+        "masonry",
+        "filtre",
+        "lightbox",
+        "portfolyo",
+        "gallery",
+        "ar"
+      ],
+      "desing": {
+        "max": "1280px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "gap": "12px",
+        "radius": "8px",
+        "columns": {
+          "d": 3,
+          "t": 3,
+          "m": 2
+        },
+        "ratio": "auto",
+        "captions": "hover",
+        "filter": true,
+        "lightbox": true,
+        "lazy": true,
+        "urlPrefix": "",
+        "title": {
+          "tr": "Atölyeden kareler",
+          "en": "From the workshop",
+          "ar": "لقطات من الورشة"
+        },
+        "description": {
+          "tr": "Buketler, aranjmanlar ve organizasyon çalışmalarından görüntüler.",
+          "en": "Views of bouquets, arrangements and event work.",
+          "ar": "صور من الباقات والتنسيقات وأعمال الفعاليات."
+        },
+        "allLabel": {
+          "tr": "Tümü",
+          "en": "All",
+          "ar": "الكل"
+        },
+        "filterLabel": {
+          "tr": "Kategoriye göre filtrele",
+          "en": "Filter by category",
+          "ar": "التصفية حسب الفئة"
+        },
+        "countText": {
+          "zero": {
+            "ar": "لا توجد صور"
+          },
+          "one": {
+            "tr": "{n} fotoğraf",
+            "en": "{n} photo",
+            "ar": "صورة واحدة"
+          },
+          "two": {
+            "ar": "صورتان"
+          },
+          "few": {
+            "ar": "{n} صور"
+          },
+          "many": {
+            "ar": "{n} صورة"
+          },
+          "other": {
+            "tr": "{n} fotoğraf",
+            "en": "{n} photos",
+            "ar": "{n} صورة"
+          }
+        },
+        "emptyText": {
+          "tr": "Henüz gösterilecek görsel yok.",
+          "en": "There are no images to show yet.",
+          "ar": "لا توجد صور لعرضها بعد."
+        },
+        "lightboxLabels": {
+          "dialog": {
+            "tr": "Görsel görüntüleyici",
+            "en": "Image viewer",
+            "ar": "عارض الصور"
+          },
+          "close": {
+            "tr": "Kapat",
+            "en": "Close",
+            "ar": "إغلاق"
+          },
+          "prev": {
+            "tr": "Önceki görsel",
+            "en": "Previous image",
+            "ar": "الصورة السابقة"
+          },
+          "next": {
+            "tr": "Sonraki görsel",
+            "en": "Next image",
+            "ar": "الصورة التالية"
+          },
+          "counter": {
+            "tr": "{i} / {n}",
+            "en": "{i} / {n}",
+            "ar": "{i} من {n}"
+          }
+        },
+        "cats": [
+          {
+            "id": "buket",
+            "name": {
+              "tr": "Buketler",
+              "en": "Bouquets",
+              "ar": "الباقات"
+            }
+          },
+          {
+            "id": "mekan",
+            "name": {
+              "tr": "Atölye ve organizasyon",
+              "en": "Workshop and events",
+              "ar": "الورشة والفعاليات"
+            }
+          }
+        ]
+      },
+      "data": [
+        {
+          "img": "cicekci-3-buket-gul.webp",
+          "cat": "buket",
+          "w": 600,
+          "h": 800,
+          "title": {
+            "tr": "Pembe gül",
+            "en": "Pink roses",
+            "ar": "ورد وردي"
+          },
+          "alt": {
+            "tr": "Kâğıda sarılı pembe gül buketi",
+            "en": "A pink rose bouquet wrapped in paper",
+            "ar": "باقة ورد وردي ملفوفة بالورق"
+          }
+        },
+        {
+          "img": "cicekci-3-buket-lale.webp",
+          "cat": "buket",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Lale",
+            "en": "Tulips",
+            "ar": "توليب"
+          },
+          "alt": {
+            "tr": "Vazoda renkli laleler",
+            "en": "Colourful tulips in a vase",
+            "ar": "توليب ملون في مزهرية"
+          }
+        },
+        {
+          "img": "cicekci-3-buket-kir.webp",
+          "cat": "buket",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Kır çiçekleri",
+            "en": "Wildflowers",
+            "ar": "زهور برية"
+          },
+          "alt": {
+            "tr": "Karışık kır çiçeği buketi",
+            "en": "A mixed wildflower bouquet",
+            "ar": "باقة زهور برية مختلطة"
+          }
+        },
+        {
+          "img": "cicekci-3-buket-zambak.webp",
+          "cat": "buket",
+          "w": 800,
+          "h": 800,
+          "title": {
+            "tr": "Beyaz zambak",
+            "en": "White lilies",
+            "ar": "زنبق أبيض"
+          },
+          "alt": {
+            "tr": "Beyaz zambak aranjmanı",
+            "en": "A white lily arrangement",
+            "ar": "تنسيق زنبق أبيض"
+          }
+        },
+        {
+          "img": "cicekci-3-hero-atolye.webp",
+          "cat": "mekan",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Çiçek tezgâhı",
+            "en": "Flower counter",
+            "ar": "طاولة الزهور"
+          },
+          "alt": {
+            "tr": "Çiçeklerle dolu tezgâh",
+            "en": "A counter full of flowers",
+            "ar": "طاولة مليئة بالزهور"
+          }
+        },
+        {
+          "img": "cicekci-3-organizasyon.webp",
+          "cat": "mekan",
+          "w": 800,
+          "h": 600,
+          "title": {
+            "tr": "Masa süsü",
+            "en": "Table decoration",
+            "ar": "تزيين الطاولة"
+          },
+          "alt": {
+            "tr": "Çiçeklerle süslenmiş uzun masa",
+            "en": "A long table decorated with flowers",
+            "ar": "طاولة طويلة مزينة بالزهور"
+          }
+        },
+        {
+          "img": "cicekci-3-paketleme.webp",
+          "cat": "mekan",
+          "w": 600,
+          "h": 800,
+          "title": {
+            "tr": "Paketleme",
+            "en": "Wrapping",
+            "ar": "التغليف"
+          },
+          "alt": {
+            "tr": "Kraft kâğıt ve ipli buket paketleme",
+            "en": "Wrapping a bouquet in kraft paper and twine",
+            "ar": "تغليف باقة بورق كرافت وخيط"
+          }
+        }
+      ],
+      "id": "nh44oz",
+      "path": "galeri-masonry",
+      "local": "body",
+      "index": 16
+    },
+    {
+      "name": "Randevu / Rezervasyon Formu",
+      "description": "Statik randevu ve rezervasyon sihirbazı (30 Eki 2026): hizmet → uzman → tarih → saat → bilgi → onay; masa kipi (kişi sayısı + bölüm) ve gösterim kipi. Sunucusuz: gönderim WhatsApp hazır mesaj, mailto veya .ics dosyası. Kendi takvimi (Pazartesi/Cumartesi hafta başı, kapalı günler, mola, bekleme günü), üç dil (tr/en/ar, RTL), KVKK onayı, demo kipinde tarayıcıda 'randevularım' listesi.",
+      "version": "1.0.0",
+      "icon": "event_available",
+      "category": "randevu",
+      "tags": [
+        "randevu",
+        "rezervasyon",
+        "takvim",
+        "form",
+        "whatsapp",
+        "ics"
+      ],
+      "desing": {
+        "max": "960px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "errcolor": "color-mix(in srgb, #c81e1e 72%, var(--mx-site-text, #1b1b1b))",
+        "mode": "randevu",
+        "submit": "whatsapp",
+        "demo": true,
+        "weekStart": "auto",
+        "leadDays": 0,
+        "maxDays": 30,
+        "maxPartySize": 8,
+        "masaDuration": 90,
+        "requireEmail": false,
+        "phone": "+90 342 000 00 00",
+        "email": "siparis@saripapatya.example",
+        "location": {
+          "tr": "Çiçek Sk. No: 5, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "5 Cicek Street, Sahinbey, Gaziantep (fictional address)",
+          "ar": "شارع الزهور رقم 5، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "badge": {
+          "tr": "Sipariş",
+          "en": "Order",
+          "ar": "طلب"
+        },
+        "title": {
+          "tr": "Çiçek sipariş talebi",
+          "en": "Flower order request",
+          "ar": "طلب شراء زهور"
+        },
+        "description": {
+          "tr": "Ürünü ve teslimat gününü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Ödeme alınmaz. ",
+          "en": "Choose the item and delivery day; on this demo site your request is created only in your browser. No payment is taken.",
+          "ar": "اختر المنتج ويوم التسليم؛ يُنشأ طلبك في متصفحك فقط. لا يُؤخذ أي دفع."
+        },
+        "noscript": {
+          "tr": "Randevu formunu kullanmak için tarayıcınızda JavaScript açık olmalıdır. Bunun yerine bizi arayabilirsiniz.",
+          "en": "JavaScript must be enabled in your browser to use the booking form. You can call us instead.",
+          "ar": "يجب تفعيل JavaScript في المتصفح لاستخدام نموذج الحجز. يمكنك الاتصال بنا بدلًا من ذلك."
+        },
+        "services": [
+          {
+            "id": "s1",
+            "name": {
+              "tr": "Pembe gül buketi",
+              "en": "Pink rose bouquet",
+              "ar": "باقة ورد وردي"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s2",
+            "name": {
+              "tr": "Lale demeti",
+              "en": "Tulip bunch",
+              "ar": "حزمة توليب"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s3",
+            "name": {
+              "tr": "Kır çiçeği buketi",
+              "en": "Wildflower bouquet",
+              "ar": "باقة زهور برية"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s4",
+            "name": {
+              "tr": "Beyaz zambak aranjman",
+              "en": "White lily arrangement",
+              "ar": "تنسيق زنبق أبيض"
+            },
+            "duration": 30
+          },
+          {
+            "id": "s5",
+            "name": {
+              "tr": "Saksı orkide",
+              "en": "Potted orchid",
+              "ar": "أوركيد في أصيص"
+            },
+            "duration": 30
+          }
+        ],
+        "staff": [
+          {
+            "id": "p1",
+            "name": {
+              "tr": "Elif Yıldız",
+              "en": "Elif Yildiz",
+              "ar": "إليف يلدز"
+            },
+            "role": {
+              "tr": "Kıdemli danışman",
+              "en": "Senior advisor",
+              "ar": "مستشارة أولى"
+            },
+            "services": [
+              "s1",
+              "s2",
+              "s3"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": {
+              "tr": "Murat Kaya",
+              "en": "Murat Kaya",
+              "ar": "مراد قايا"
+            },
+            "role": {
+              "tr": "Danışman",
+              "en": "Advisor",
+              "ar": "مستشار"
+            },
+            "services": [
+              "s1",
+              "s2"
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "id": "ic",
+            "name": {
+              "tr": "İç salon",
+              "en": "Indoor",
+              "ar": "الصالة الداخلية"
+            }
+          },
+          {
+            "id": "bahce",
+            "name": {
+              "tr": "Bahçe",
+              "en": "Garden",
+              "ar": "الحديقة"
+            }
+          }
+        ],
+        "hours": {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": "10:00",
+          "end": "20:00",
+          "slot": 120,
+          "breaks": []
+        },
+        "closed": [
+          "2026-12-31",
+          "2027-01-01"
+        ],
+        "kvkk": {
+          "text": {
+            "tr": "Kişisel verilerimin bu talebin oluşturulması amacıyla işlenmesine ilişkin aydınlatma metnini okudum, anladım.",
+            "en": "I have read and understood the privacy notice on how my personal data is processed to create this request.",
+            "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لإنشاء هذا الطلب وفهمته."
+          },
+          "href": "kisiselveriler"
+        },
+        "successText": {
+          "tr": "Talebiniz alındı. Teslimat penceresi teyit edilerek size bildirilecektir.",
+          "en": "Your request has been received. The delivery window will be confirmed to you.",
+          "ar": "تم استلام طلبك، وسيُؤكَّد لك الوقت المناسب للتسليم."
+        },
+        "ui": {
+          "stepsLabel": {
+            "tr": "Adımlar",
+            "en": "Steps",
+            "ar": "الخطوات"
+          },
+          "stepOf": {
+            "tr": "Adım {n} / {m}",
+            "en": "Step {n} of {m}",
+            "ar": "الخطوة {n} من {m}"
+          },
+          "s_service": {
+            "tr": "Hizmet",
+            "en": "Service",
+            "ar": "الخدمة"
+          },
+          "s_staff": {
+            "tr": "Uzman",
+            "en": "Specialist",
+            "ar": "المختص"
+          },
+          "s_party": {
+            "tr": "Kişi",
+            "en": "Guests",
+            "ar": "الضيوف"
+          },
+          "s_date": {
+            "tr": "Tarih",
+            "en": "Date",
+            "ar": "التاريخ"
+          },
+          "s_time": {
+            "tr": "Saat",
+            "en": "Time",
+            "ar": "الوقت"
+          },
+          "s_info": {
+            "tr": "Bilgiler",
+            "en": "Details",
+            "ar": "البيانات"
+          },
+          "s_confirm": {
+            "tr": "Onay",
+            "en": "Confirm",
+            "ar": "التأكيد"
+          },
+          "back": {
+            "tr": "Geri",
+            "en": "Back",
+            "ar": "رجوع"
+          },
+          "next": {
+            "tr": "Devam",
+            "en": "Continue",
+            "ar": "متابعة"
+          },
+          "reqNote": {
+            "tr": "* ile işaretli alanlar zorunludur.",
+            "en": "Fields marked * are required.",
+            "ar": "الحقول المميزة بعلامة * إلزامية."
+          },
+          "t_service": {
+            "tr": "Hizmet seçin",
+            "en": "Choose a service",
+            "ar": "اختر الخدمة"
+          },
+          "minUnit": {
+            "tr": "{n} dk",
+            "en": "{n} min",
+            "ar": "{n} دقيقة"
+          },
+          "t_staff": {
+            "tr": "Uzman seçin",
+            "en": "Choose a specialist",
+            "ar": "اختر المختص"
+          },
+          "anyStaff": {
+            "tr": "Fark etmez",
+            "en": "No preference",
+            "ar": "لا تفضيل"
+          },
+          "anyStaffHint": {
+            "tr": "Uygun olan uzman atanır.",
+            "en": "The first available specialist is assigned.",
+            "ar": "يُسنَد الموعد إلى أول مختص متاح."
+          },
+          "t_party": {
+            "tr": "Kaç kişisiniz?",
+            "en": "How many guests?",
+            "ar": "كم عدد الضيوف؟"
+          },
+          "partyMinus": {
+            "tr": "Kişi sayısını azalt",
+            "en": "Decrease guests",
+            "ar": "تقليل عدد الضيوف"
+          },
+          "partyPlus": {
+            "tr": "Kişi sayısını artır",
+            "en": "Increase guests",
+            "ar": "زيادة عدد الضيوف"
+          },
+          "partyCount": {
+            "tr": {
+              "one": "{n} kişi",
+              "other": "{n} kişi"
+            },
+            "en": {
+              "one": "{n} guest",
+              "other": "{n} guests"
+            },
+            "ar": {
+              "zero": "{n} ضيف",
+              "one": "ضيف واحد",
+              "two": "ضيفان",
+              "few": "{n} ضيوف",
+              "many": "{n} ضيفًا",
+              "other": "{n} ضيف"
+            }
+          },
+          "groupHint": {
+            "tr": "{n} kişiden büyük gruplar için lütfen bizi arayın.",
+            "en": "For groups larger than {n}, please call us.",
+            "ar": "للمجموعات التي يزيد عددها عن {n}، يُرجى الاتصال بنا."
+          },
+          "t_section": {
+            "tr": "Bölüm tercihi",
+            "en": "Seating preference",
+            "ar": "تفضيل الجلسة"
+          },
+          "anySection": {
+            "tr": "Fark etmez",
+            "en": "No preference",
+            "ar": "لا تفضيل"
+          },
+          "t_date": {
+            "tr": "Tarih seçin",
+            "en": "Choose a date",
+            "ar": "اختر التاريخ"
+          },
+          "prevMonth": {
+            "tr": "Önceki ay",
+            "en": "Previous month",
+            "ar": "الشهر السابق"
+          },
+          "nextMonth": {
+            "tr": "Sonraki ay",
+            "en": "Next month",
+            "ar": "الشهر التالي"
+          },
+          "calHint": {
+            "tr": "Gezinmek için ok tuşlarını, seçmek için Enter tuşunu kullanın. Kapalı günler seçilemez.",
+            "en": "Use the arrow keys to move and Enter to select. Unavailable days cannot be chosen.",
+            "ar": "استخدم مفاتيح الأسهم للتنقل ومفتاح Enter للاختيار. لا يمكن اختيار الأيام غير المتاحة."
+          },
+          "dayUnavailable": {
+            "tr": "uygun değil",
+            "en": "unavailable",
+            "ar": "غير متاح"
+          },
+          "selectedDate": {
+            "tr": "Seçilen tarih: {d}",
+            "en": "Selected date: {d}",
+            "ar": "التاريخ المختار: {d}"
+          },
+          "t_time": {
+            "tr": "Saat seçin",
+            "en": "Choose a time",
+            "ar": "اختر الوقت"
+          },
+          "timesFor": {
+            "tr": "{d} için uygun saatler",
+            "en": "Available times for {d}",
+            "ar": "الأوقات المتاحة ليوم {d}"
+          },
+          "p_morning": {
+            "tr": "Sabah",
+            "en": "Morning",
+            "ar": "الصباح"
+          },
+          "p_afternoon": {
+            "tr": "Öğleden sonra",
+            "en": "Afternoon",
+            "ar": "بعد الظهر"
+          },
+          "p_evening": {
+            "tr": "Akşam",
+            "en": "Evening",
+            "ar": "المساء"
+          },
+          "slotTaken": {
+            "tr": "dolu",
+            "en": "booked",
+            "ar": "محجوز"
+          },
+          "noSlots": {
+            "tr": "Bu tarihte uygun saat kalmadı. Lütfen başka bir gün seçin.",
+            "en": "No times are left on this date. Please choose another day.",
+            "ar": "لا توجد أوقات متاحة في هذا اليوم. يُرجى اختيار يوم آخر."
+          },
+          "t_info": {
+            "tr": "İletişim bilgileriniz",
+            "en": "Your contact details",
+            "ar": "بيانات التواصل"
+          },
+          "fName": {
+            "tr": "Ad soyad",
+            "en": "Full name",
+            "ar": "الاسم الكامل"
+          },
+          "fPhone": {
+            "tr": "Telefon",
+            "en": "Phone",
+            "ar": "رقم الهاتف"
+          },
+          "fEmail": {
+            "tr": "E-posta",
+            "en": "E-mail",
+            "ar": "البريد الإلكتروني"
+          },
+          "fEmailOpt": {
+            "tr": "E-posta (isteğe bağlı)",
+            "en": "E-mail (optional)",
+            "ar": "البريد الإلكتروني (اختياري)"
+          },
+          "fNote": {
+            "tr": "Not (isteğe bağlı)",
+            "en": "Note (optional)",
+            "ar": "ملاحظة (اختياري)"
+          },
+          "eService": {
+            "tr": "Lütfen bir hizmet seçin.",
+            "en": "Please choose a service.",
+            "ar": "يُرجى اختيار خدمة."
+          },
+          "eDate": {
+            "tr": "Lütfen uygun bir tarih seçin.",
+            "en": "Please choose an available date.",
+            "ar": "يُرجى اختيار تاريخ متاح."
+          },
+          "eTime": {
+            "tr": "Lütfen bir saat seçin.",
+            "en": "Please choose a time.",
+            "ar": "يُرجى اختيار وقت."
+          },
+          "eName": {
+            "tr": "Lütfen adınızı ve soyadınızı yazın.",
+            "en": "Please enter your full name.",
+            "ar": "يُرجى كتابة اسمك الكامل."
+          },
+          "ePhone": {
+            "tr": "Geçerli bir telefon numarası yazın.",
+            "en": "Please enter a valid phone number.",
+            "ar": "يُرجى كتابة رقم هاتف صحيح."
+          },
+          "eEmail": {
+            "tr": "Geçerli bir e-posta adresi yazın.",
+            "en": "Please enter a valid e-mail address.",
+            "ar": "يُرجى كتابة بريد إلكتروني صحيح."
+          },
+          "eKvkk": {
+            "tr": "Devam etmek için aydınlatma metnini onaylamanız gerekir.",
+            "en": "You need to accept the privacy notice to continue.",
+            "ar": "يجب الموافقة على إشعار الخصوصية للمتابعة."
+          },
+          "t_confirm": {
+            "tr": "Özet ve onay",
+            "en": "Review and confirm",
+            "ar": "المراجعة والتأكيد"
+          },
+          "sum_service": {
+            "tr": "Hizmet",
+            "en": "Service",
+            "ar": "الخدمة"
+          },
+          "sum_staff": {
+            "tr": "Uzman",
+            "en": "Specialist",
+            "ar": "المختص"
+          },
+          "sum_party": {
+            "tr": "Kişi sayısı",
+            "en": "Guests",
+            "ar": "عدد الضيوف"
+          },
+          "sum_section": {
+            "tr": "Bölüm",
+            "en": "Seating",
+            "ar": "الجلسة"
+          },
+          "sum_date": {
+            "tr": "Tarih",
+            "en": "Date",
+            "ar": "التاريخ"
+          },
+          "sum_time": {
+            "tr": "Saat",
+            "en": "Time",
+            "ar": "الوقت"
+          },
+          "sum_name": {
+            "tr": "Ad soyad",
+            "en": "Name",
+            "ar": "الاسم"
+          },
+          "sum_phone": {
+            "tr": "Telefon",
+            "en": "Phone",
+            "ar": "الهاتف"
+          },
+          "sum_email": {
+            "tr": "E-posta",
+            "en": "E-mail",
+            "ar": "البريد الإلكتروني"
+          },
+          "sum_note": {
+            "tr": "Not",
+            "en": "Note",
+            "ar": "ملاحظة"
+          },
+          "kvkkLink": {
+            "tr": "Aydınlatma metni",
+            "en": "Privacy notice",
+            "ar": "إشعار الخصوصية"
+          },
+          "submit_whatsapp": {
+            "tr": "WhatsApp ile gönder",
+            "en": "Send via WhatsApp",
+            "ar": "إرسال عبر واتساب"
+          },
+          "submit_mailto": {
+            "tr": "E-posta ile gönder",
+            "en": "Send by e-mail",
+            "ar": "إرسال بالبريد الإلكتروني"
+          },
+          "submit_ics": {
+            "tr": "Takvim dosyasını indir",
+            "en": "Download calendar file",
+            "ar": "تنزيل ملف التقويم"
+          },
+          "showcaseNote": {
+            "tr": "Bu bölüm bir gösterimdir: girdiğiniz bilgiler hiçbir yere gönderilmez. Gerçek talep için bizi arayabilirsiniz.",
+            "en": "This is a showcase: nothing you enter is sent anywhere. To make a real request, please call us.",
+            "ar": "هذا القسم للعرض فقط: لا تُرسَل أي بيانات تدخلها. لتقديم طلب فعلي يُرجى الاتصال بنا."
+          },
+          "callUs": {
+            "tr": "Bizi arayın",
+            "en": "Call us",
+            "ar": "اتصل بنا"
+          },
+          "restart": {
+            "tr": "Başa dön",
+            "en": "Start over",
+            "ar": "العودة إلى البداية"
+          },
+          "doneTitle_randevu": {
+            "tr": "Randevu talebiniz hazır",
+            "en": "Your appointment request is ready",
+            "ar": "طلب موعدك جاهز"
+          },
+          "doneTitle_masa": {
+            "tr": "Rezervasyon talebiniz hazır",
+            "en": "Your reservation request is ready",
+            "ar": "طلب حجزك جاهز"
+          },
+          "doneHint_whatsapp": {
+            "tr": "Mesaj WhatsApp'ta hazır olarak açıldı. Talebin bize ulaşması için mesajı göndermeyi unutmayın.",
+            "en": "The message opened in WhatsApp, ready to send. Remember to send it so your request reaches us.",
+            "ar": "فُتحت الرسالة جاهزة في واتساب. لا تنسَ إرسالها كي يصلنا طلبك."
+          },
+          "doneHint_mailto": {
+            "tr": "E-posta uygulamanızda hazır bir taslak açıldı. Göndermeyi unutmayın.",
+            "en": "A draft e-mail opened in your mail app. Remember to send it.",
+            "ar": "فُتحت مسودة رسالة في تطبيق البريد. لا تنسَ إرسالها."
+          },
+          "doneHint_ics": {
+            "tr": "Takvim dosyası indirildi. Kaydı takvim uygulamanıza ekleyebilirsiniz.",
+            "en": "The calendar file was downloaded. You can add the booking to your calendar app.",
+            "ar": "تم تنزيل ملف التقويم. يمكنك إضافة الحجز إلى تطبيق التقويم."
+          },
+          "reopen": {
+            "tr": "Mesajı yeniden aç",
+            "en": "Open the message again",
+            "ar": "فتح الرسالة مرة أخرى"
+          },
+          "reopen_ics": {
+            "tr": "Dosyayı yeniden indir",
+            "en": "Download again",
+            "ar": "إعادة التنزيل"
+          },
+          "addCal": {
+            "tr": "Takvime ekle",
+            "en": "Add to calendar",
+            "ar": "إضافة إلى التقويم"
+          },
+          "newBooking_randevu": {
+            "tr": "Yeni randevu",
+            "en": "New appointment",
+            "ar": "موعد جديد"
+          },
+          "newBooking_masa": {
+            "tr": "Yeni rezervasyon",
+            "en": "New reservation",
+            "ar": "حجز جديد"
+          },
+          "demoNote": {
+            "tr": "Demo: bilgileriniz yalnızca bu tarayıcıda saklanır, hiçbir sunucuya gönderilmez.",
+            "en": "Demo: your details stay in this browser only and are never sent to a server.",
+            "ar": "عرض تجريبي: تبقى بياناتك في هذا المتصفح فقط ولا تُرسَل إلى أي خادم."
+          },
+          "myTitle_randevu": {
+            "tr": "Randevularım",
+            "en": "My appointments",
+            "ar": "مواعيدي"
+          },
+          "myTitle_masa": {
+            "tr": "Rezervasyonlarım",
+            "en": "My reservations",
+            "ar": "حجوزاتي"
+          },
+          "cancel": {
+            "tr": "İptal et",
+            "en": "Cancel",
+            "ar": "إلغاء"
+          },
+          "cancelAria": {
+            "tr": "{d} saat {t} kaydını iptal et",
+            "en": "Cancel the booking on {d} at {t}",
+            "ar": "إلغاء الحجز بتاريخ {d} الساعة {t}"
+          },
+          "cancelled": {
+            "tr": "Kayıt iptal edildi.",
+            "en": "Booking cancelled.",
+            "ar": "تم إلغاء الحجز."
+          },
+          "svcFallback_randevu": {
+            "tr": "Randevu",
+            "en": "Appointment",
+            "ar": "موعد"
+          },
+          "msg_randevu_head": {
+            "tr": "Merhaba, {name} adına {date} saat {time} için {service} randevusu almak istiyorum.",
+            "en": "Hello, I would like to book {service} on {date} at {time} under the name {name}.",
+            "ar": "مرحبًا، أود حجز موعد ({service}) بتاريخ {date} الساعة {time} باسم {name}."
+          },
+          "msg_randevu_head_nosvc": {
+            "tr": "Merhaba, {name} adına {date} saat {time} için randevu almak istiyorum.",
+            "en": "Hello, I would like to book an appointment on {date} at {time} under the name {name}.",
+            "ar": "مرحبًا، أود حجز موعد بتاريخ {date} الساعة {time} باسم {name}."
+          },
+          "msg_masa_head": {
+            "tr": "Merhaba, {name} adına {date} saat {time} için {party} masa rezervasyonu yapmak istiyorum.",
+            "en": "Hello, I would like to reserve a table for {party} on {date} at {time} under the name {name}.",
+            "ar": "مرحبًا، أود حجز طاولة لـ {party} بتاريخ {date} الساعة {time} باسم {name}."
+          },
+          "msg_staff": {
+            "tr": "Tercih edilen uzman: {staff}",
+            "en": "Preferred specialist: {staff}",
+            "ar": "المختص المفضل: {staff}"
+          },
+          "msg_section": {
+            "tr": "Bölüm: {section}",
+            "en": "Seating: {section}",
+            "ar": "الجلسة: {section}"
+          },
+          "msg_phone": {
+            "tr": "Telefon: {phone}",
+            "en": "Phone: {phone}",
+            "ar": "الهاتف: {phone}"
+          },
+          "msg_email": {
+            "tr": "E-posta: {email}",
+            "en": "E-mail: {email}",
+            "ar": "البريد الإلكتروني: {email}"
+          },
+          "msg_note": {
+            "tr": "Not: {note}",
+            "en": "Note: {note}",
+            "ar": "ملاحظة: {note}"
+          },
+          "mailSubject_randevu": {
+            "tr": "Randevu talebi – {name}",
+            "en": "Appointment request – {name}",
+            "ar": "طلب موعد – {name}"
+          },
+          "mailSubject_masa": {
+            "tr": "Rezervasyon talebi – {name}",
+            "en": "Reservation request – {name}",
+            "ar": "طلب حجز – {name}"
+          },
+          "icsSummary_randevu": {
+            "tr": "Randevu: {service}",
+            "en": "Appointment: {service}",
+            "ar": "موعد: {service}"
+          },
+          "icsSummary_masa": {
+            "tr": "Masa rezervasyonu – {party}",
+            "en": "Table reservation – {party}",
+            "ar": "حجز طاولة – {party}"
+          }
+        }
+      },
+      "id": "rqz3wf",
+      "path": "randevu-formu",
+      "local": "body",
+      "data": [],
+      "index": 17
+    },
+    {
+      "name": "Page Desing 5",
+      "desing": {
+        "stil": "ikon-ustte-yuvarlak",
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "var(--mx-site-primary, #2563eb)",
+        "activetext": "#fff",
+        "textcolor": "#fff",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "border_radius": "8px",
+        "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "colortitle": "var(--mx-site-text, #1b1b1b)",
+        "coloractive": "var(--mx-site-primary, #2563eb)",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Sayfalar",
+            "dimensions": "Ölçüler",
+            "dimNote": "Standart üretim referansıdır; proje bazında özelleştirilebilir.",
+            "quote": "İletişim",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          },
+          "en": {
+            "home": "Home",
+            "products": "Pages",
+            "dimensions": "Dimensions",
+            "dimNote": "Standard production reference; customizable per project.",
+            "quote": "Contact",
+            "whatsapp": "WhatsApp",
+            "prev": "Previous",
+            "next": "Next"
+          },
+          "ar": {
+            "home": "الرئيسية",
+            "products": "الصفحات",
+            "dimensions": "الأبعاد",
+            "dimNote": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+            "quote": "اتصل بنا",
+            "whatsapp": "واتساب",
+            "prev": "السابق",
+            "next": "التالي"
+          }
+        },
+        "noTitle": {
+          "tr": "Başlık Yok",
+          "en": "No title",
+          "ar": "بدون عنوان"
+        },
+        "productNavAria": {
+          "tr": "Ürün navigasyonu",
+          "en": "Product navigation",
+          "ar": "تنقل المنتج"
+        }
+      },
+      "category": "page",
+      "description": "Sayfa basligi, yan menu ve icerik alani. Urun detayinda breadcrumb, olcu kartlari, teklif/WhatsApp CTA, onceki/sonraki urun navigasyonu. Kategori menusu ve responsive slide-in menu. Görsel varyant desing.stil (31 Eki 2026, yan menü bağlantıları): \"\" klasik (kutulu liste, bugünkü görünüm) · \"ikon-ustte-yuvarlak\" (ortalı karo, üstte daire ikon) · \"yatay-kart\" (ikon solda/RTL sağda, metin yanında, ayrı kartlar) · \"kenar-cizgili\" (kutu yok, başta ince çizgi; hover/aktifte primary çizgi ve içe kayma). Kart zemini bgcolor (31 Eki) korunur; eklenen renkler var(--mx-site-primary) türevi.",
+      "version": "1.4.0",
+      "icon": "web",
+      "id": "4we020",
+      "path": "page-desing-5",
+      "local": "body",
+      "data": [],
+      "index": 18
+    },
+    {
+      "name": "Demo Bandı",
+      "description": "Demo sitelerin her sayfasının üstünde duran, kapatılamaz bilgi şeridi: «Bu bir demo sitedir» uyarısı ve «Bu temayı iste» bağlantısı. Sayfanın en üstüne yapışır (position:sticky), sabit menüleri bant yüksekliği kadar aşağı iter (--mx-demo-bandi-h). Üç dil (TR/EN/AR), Arapçada RTL, mobilde iki satıra sarar.",
+      "version": "1.0.0",
+      "icon": "info",
+      "category": "demo",
+      "tags": [
+        "demo",
+        "bant",
+        "uyarı",
+        "banner",
+        "rtl"
+      ],
+      "desing": {
+        "tone": "info",
+        "bandBg": "",
+        "bandFg": "",
+        "ctaHref": "https://webyapar.com/temalar#cicekci",
+        "ariaLabel": {
+          "tr": "Demo site uyarısı",
+          "en": "Demo site notice",
+          "ar": "تنبيه الموقع التجريبي"
+        },
+        "text": {
+          "tr": "Bu bir demo sitedir — içerik kurgusaldır, ödeme alınmaz",
+          "en": "This is a demo site — the content is fictional and no payment is taken",
+          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات"
+        },
+        "ctaText": {
+          "tr": "Bu temayı iste",
+          "en": "Get this theme",
+          "ar": "اطلب هذا القالب"
+        },
+        "newTabText": {
+          "tr": "(yeni sekmede açılır)",
+          "en": "(opens in a new tab)",
+          "ar": "(يفتح في علامة تبويب جديدة)"
+        }
+      },
+      "id": "10f26m",
+      "path": "demo-bandi",
+      "local": "header",
+      "data": [],
+      "index": 19
+    },
+    {
+      "name": {
+        "tr": "Menü 10 — Şeffaf overlay",
+        "en": "Menu 10 — Transparent overlay",
+        "ar": "القائمة 10 — شفافة فوق الهيرو"
+      },
+      "description": {
+        "tr": "Hero'nun üstüne binen şeffaf menü (position:absolute): başlangıçta şeffaf zemin + açık yazı (menutextOverlay) ve altında ince koyu gradient scrim; kaydırınca 300 ms'de katı zemine (menubg/menutext) geçer ve sabitlenir. Sayfada hero yoksa (#content ilk çocuğu data-mx-hero / *-hero değilse) baştan katı ve akışta. Mobil: tam ekran panel. desing.stil: sade | cta-butonlu (sağda vurgulu düğme). Dil seçici {{langbar}}. Üç dil + RTL.",
+        "en": "Transparent menu overlaid on the hero (position:absolute): transparent background + light text (menutextOverlay) with a thin dark gradient scrim underneath; on scroll it switches to a solid background (menubg/menutext) in 300 ms and sticks. Without a hero on the page (#content first child lacks data-mx-hero / *-hero) it starts solid and in flow. Mobile: full-screen panel. desing.stil: sade | cta-butonlu (accent button on the end side). Language switcher {{langbar}}. Three languages + RTL.",
+        "ar": "قائمة شفافة فوق الهيرو (position:absolute): خلفية شفافة ونص فاتح (menutextOverlay) مع تدرّج داكن رفيع أسفلها؛ عند التمرير تتحوّل خلال 300 ms إلى خلفية صلبة (menubg/menutext) وتثبت. إن لم توجد وحدة هيرو في الصفحة (أول عنصر في #content بلا data-mx-hero / *-hero) تبدأ صلبة وضمن التدفق. الجوال: لوحة بملء الشاشة. desing.stil: sade | cta-butonlu (زر بارز في جهة النهاية). محدد اللغة {{langbar}}. ثلاث لغات + RTL."
+      },
+      "version": "1.0.0",
+      "icon": "layers",
+      "category": "menu",
+      "tags": [
+        "menu",
+        "overlay",
+        "seffaf",
+        "transparent",
+        "hero",
+        "sticky",
+        "ar"
+      ],
+      "desing": {
+        "stil": "sade",
+        "logo": "{{logo}}",
+        "logo_acik": "",
+        "logo_h": "52px",
+        "max": "1200px",
+        "showlang": true,
+        "menubg": "var(--mx-site-bg, #ffffff)",
+        "menutext": "var(--mx-site-text, #1b1b1b)",
+        "menutextOverlay": "#ffffff",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "border": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "cta": {
+          "tr": "Sipariş talebi",
+          "en": "Order request",
+          "ar": "طلب شراء"
+        },
+        "cta_url": "siparis-talebi"
+      },
+      "data": [],
+      "id": "kb9gkt",
+      "path": "menu-10",
+      "local": "header",
+      "index": 20
+    },
+    {
+      "name": {
+        "tr": "Slider Ken Burns",
+        "en": "Ken Burns Slider",
+        "ar": "سلايدر كين بيرنز"
+      },
+      "description": {
+        "tr": "Sıfır bağımlılıklı tam genişlik slider (Swiper yok): görsel yavaş yakınlaşma/kayma (CSS keyframes 10 sn, reduced-motion'da kapalı), her slaytta eyebrow + h2 + metin + CTA ve metin giriş animasyonu; nokta + ok navigasyon, klavye ←/→, dokunma kaydırma, otomatik oynatma durdur/başlat düğmesi (hover/odakta duraklar, reduced-motion'da kapalı). data[] = [{img, alt{}, eyebrow{}, title{}, text{}, cta{}, url}]. desing.stil: tam | kart (içerik yarı saydam kartta) | bolunmus (görsel bitiş tarafında, metin düz zeminde). Yükseklik desing.yukseklik (vh, min 420px). Üç dil + RTL.",
+        "en": "Zero-dependency full-width slider (no Swiper): slow image zoom/pan (CSS keyframes 10 s, off under reduced-motion), eyebrow + h2 + text + CTA per slide with text entrance animation; dot + arrow navigation, keyboard ←/→, touch swipe, autoplay pause/play button (pauses on hover/focus, off under reduced-motion). data[] = [{img, alt{}, eyebrow{}, title{}, text{}, cta{}, url}]. desing.stil: tam | kart (content in a translucent card) | bolunmus (image on the end side, text on a solid background). Height desing.yukseklik (vh, min 420px). Three languages + RTL.",
+        "ar": "سلايدر بعرض كامل بدون أي تبعيات (بلا Swiper): تقريب/تحريك بطيء للصورة (CSS keyframes 10 ث، يتوقف عند تقليل الحركة)، في كل شريحة تسمية + h2 + نص + زر مع حركة دخول للنص؛ تنقّل بالنقاط والأسهم، لوحة المفاتيح ←/→، سحب باللمس، زر إيقاف/تشغيل التشغيل التلقائي (يتوقف عند التحويم/التركيز، ومعطّل عند تقليل الحركة). data[] = [{img, alt{}, eyebrow{}, title{}, text{}, cta{}, url}]. desing.stil: tam | kart (المحتوى في بطاقة شبه شفافة) | bolunmus (الصورة في جهة النهاية والنص على خلفية صلبة). الارتفاع desing.yukseklik (vh، الحد الأدنى 420px). ثلاث لغات + RTL."
+      },
+      "version": "1.0.0",
+      "icon": "slideshow",
+      "category": "slider",
+      "tags": [
+        "slider",
+        "kenburns",
+        "ken-burns",
+        "karusel",
+        "hero",
+        "sifir-bagimlilik",
+        "ar"
+      ],
+      "desing": {
+        "stil": "tam",
+        "yukseklik": 76,
+        "sure": 6500,
+        "otomatik": true,
+        "max": "1200px",
+        "overlay": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 25%, #0b1220)",
+        "overlayText": "#ffffff",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "text": "var(--mx-site-text, #1b1b1b)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "radius": "16px",
+        "aria_label": {
+          "tr": "Tanıtım slaytları",
+          "en": "Featured slides",
+          "ar": "شرائح تعريفية"
+        },
+        "prev_label": {
+          "tr": "Önceki slayt",
+          "en": "Previous slide",
+          "ar": "الشريحة السابقة"
+        },
+        "next_label": {
+          "tr": "Sonraki slayt",
+          "en": "Next slide",
+          "ar": "الشريحة التالية"
+        },
+        "dot_label": {
+          "tr": "{n}. slayta git",
+          "en": "Go to slide {n}",
+          "ar": "الانتقال إلى الشريحة {n}"
+        },
+        "pause_label": {
+          "tr": "Otomatik oynatmayı durdur",
+          "en": "Pause autoplay",
+          "ar": "إيقاف التشغيل التلقائي"
+        },
+        "play_label": {
+          "tr": "Otomatik oynatmayı başlat",
+          "en": "Start autoplay",
+          "ar": "بدء التشغيل التلقائي"
+        },
+        "slide_label": {
+          "tr": "{i} / {n}",
+          "en": "{i} of {n}",
+          "ar": "{i} من {n}"
+        }
+      },
+      "data": [
+        {
+          "img": "cicekci-3-buket-kir.webp",
+          "alt": {
+            "tr": "Karışık kır çiçeği buketi",
+            "en": "A mixed wildflower bouquet",
+            "ar": "باقة زهور برية مختلطة"
+          },
+          "eyebrow": {
+            "tr": "Çiçekçi · Her gün 08:00 – 21:00",
+            "en": "Florist · Daily 08:00 – 21:00",
+            "ar": "محل زهور · يوميًا 08:00 – 21:00"
+          },
+          "title": {
+            "tr": "Bir buketle günü aydınlatın",
+            "en": "Brighten the day with a bouquet",
+            "ar": "أضئ اليوم بباقة"
+          },
+          "text": {
+            "tr": "Sarı Papatya Çiçekçilik, mevsim çiçekleriyle renkli buketler ve aranjmanlar hazırlayan kurgusal bir demo çiçekçidir. Siparişinizi talep formuyla iletin.",
+            "en": "Sari Papatya Florist is a fictional demo florist making colourful bouquets and arrangements from seasonal flowers. Send your order through the request form.",
+            "ar": "ساري باباتيا للزهور محل زهور تجريبي افتراضي يحضّر باقات وتنسيقات ملونة من زهور الموسم. أرسل طلبك عبر النموذج."
+          },
+          "cta": {
+            "tr": "Sipariş talebi",
+            "en": "Order request",
+            "ar": "طلب شراء"
+          },
+          "url": "siparis-talebi"
+        },
+        {
+          "img": "cicekci-3-buket-lale.webp",
+          "alt": {
+            "tr": "Karışık kır çiçeği buketi",
+            "en": "A mixed wildflower bouquet",
+            "ar": "باقة زهور برية مختلطة"
+          },
+          "eyebrow": {
+            "tr": "Mevsim laleleri",
+            "en": "Seasonal tulips",
+            "ar": "توليب الموسم"
+          },
+          "title": {
+            "tr": "Sade demet, taze renkler",
+            "en": "A plain bunch, fresh colours",
+            "ar": "حزمة بسيطة بألوان طازجة"
+          },
+          "text": {
+            "tr": "Renk ve boyut için talep formuna not yazabilirsiniz.",
+            "en": "Add a note about colour and size in the request form.",
+            "ar": "يمكنك كتابة ملاحظة عن اللون والحجم في نموذج الطلب."
+          },
+          "cta": {
+            "tr": "Çiçekler",
+            "en": "Flowers",
+            "ar": "الزهور"
+          },
+          "url": "cicekler"
+        },
+        {
+          "img": "cicekci-3-organizasyon.webp",
+          "alt": {
+            "tr": "Karışık kır çiçeği buketi",
+            "en": "A mixed wildflower bouquet",
+            "ar": "باقة زهور برية مختلطة"
+          },
+          "eyebrow": {
+            "tr": "Düğün ve organizasyon",
+            "en": "Weddings and events",
+            "ar": "الأعراس والفعاليات"
+          },
+          "title": {
+            "tr": "Masadan kapıya çiçek düzeni",
+            "en": "Flower design from table to entrance",
+            "ar": "تنسيق الزهور من الطاولة إلى المدخل"
+          },
+          "text": {
+            "tr": "Keşif için randevu gerekir; teklif yazılı iletilir.",
+            "en": "A visit appointment is needed; the quote is sent in writing.",
+            "ar": "يلزم موعد معاينة؛ ويُرسَل العرض كتابةً."
+          },
+          "cta": {
+            "tr": "Sipariş talebi",
+            "en": "Order request",
+            "ar": "طلب شراء"
+          },
+          "url": "siparis-talebi"
+        }
+      ],
+      "id": "n5p2l1",
+      "path": "slider-kenburns",
+      "local": "header",
+      "index": 21
+    },
+    {
+      "name": "Sekmeli Hizmetler",
+      "description": "Hizmet anlatımı sekmelerle: sol/üst sekme listesi (ikon + ad), seçili hizmetin görseli + açıklama + madde listesi + CTA. Mobilde akordeon. ARIA tabs kalıbı (ok tuşları, Home/End, RTL'de yön ters). desing.stil: dikey | yatay-ust | kart-gecis. Veri: data[] = [{ikon, ad{tr,en,ar}, ozet{}, maddeler[{}], img, alt{}, url}]. Renkler yalnız token (var(--mx-site-*)); koyu mod otomatik. Üç dil + RTL.",
+      "version": "1.0.0",
+      "icon": "view_sidebar",
+      "category": "hizmet",
+      "tags": [
+        "hizmet",
+        "sekme",
+        "tabs",
+        "akordeon",
+        "services",
+        "ar"
+      ],
+      "desing": {
+        "stil": "dikey",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "16px",
+        "eyebrow": {
+          "tr": "Koleksiyon",
+          "en": "Collection",
+          "ar": "المجموعة"
+        },
+        "title": {
+          "tr": "Buketler ve aranjmanlar",
+          "en": "Bouquets and arrangements",
+          "ar": "باقات وتنسيقات"
+        },
+        "description": {
+          "tr": "Mevsime göre değişen seçenekler; renk ve boyut için talep formuna not yazabilirsiniz.",
+          "en": "Options change with the season; add a note about colour and size in the request form.",
+          "ar": "تتغير الخيارات بحسب الموسم؛ ويمكنك كتابة ملاحظة عن اللون والحجم في نموذج الطلب."
+        },
+        "ctaLabel": {
+          "tr": "Detaylı bilgi",
+          "en": "Learn more",
+          "ar": "مزيد من التفاصيل"
+        },
+        "tabsLabel": {
+          "tr": "Hizmet sekmeleri",
+          "en": "Service tabs",
+          "ar": "تبويبات الخدمات"
+        },
+        "featuresLabel": {
+          "tr": "Neler dahil?",
+          "en": "What's included?",
+          "ar": "ماذا يشمل؟"
+        }
+      },
+      "data": [
+        {
+          "ikon": "spa",
+          "ad": {
+            "tr": "Pembe gül buketi",
+            "en": "Pink rose bouquet",
+            "ar": "باقة ورد وردي"
+          },
+          "ozet": {
+            "tr": "Kâğıtla sarılı, kurdeleli klasik gül buketi.",
+            "en": "A classic rose bouquet wrapped in paper and ribbon.",
+            "ar": "باقة ورد كلاسيكية ملفوفة بالورق والشريط."
+          },
+          "maddeler": [],
+          "img": "cicekci-3-buket-gul.webp",
+          "alt": {
+            "tr": "Kâğıda sarılı pembe gül buketi",
+            "en": "A pink rose bouquet wrapped in paper",
+            "ar": "باقة ورد وردي ملفوفة بالورق"
+          },
+          "url": "cicekler"
+        },
+        {
+          "ikon": "local_florist",
+          "ad": {
+            "tr": "Lale demeti",
+            "en": "Tulip bunch",
+            "ar": "حزمة توليب"
+          },
+          "ozet": {
+            "tr": "Mevsim lalelerinden sade demet.",
+            "en": "A plain bunch of seasonal tulips.",
+            "ar": "حزمة بسيطة من توليب الموسم."
+          },
+          "maddeler": [],
+          "img": "cicekci-3-buket-lale.webp",
+          "alt": {
+            "tr": "Vazoda renkli laleler",
+            "en": "Colourful tulips in a vase",
+            "ar": "توليب ملون في مزهرية"
+          },
+          "url": "cicekler"
+        },
+        {
+          "ikon": "grass",
+          "ad": {
+            "tr": "Kır çiçeği buketi",
+            "en": "Wildflower bouquet",
+            "ar": "باقة زهور برية"
+          },
+          "ozet": {
+            "tr": "Renkli, doğal görünümlü karışık buket.",
+            "en": "A colourful, natural-looking mixed bouquet.",
+            "ar": "باقة مختلطة ملونة بمظهر طبيعي."
+          },
+          "maddeler": [],
+          "img": "cicekci-3-buket-kir.webp",
+          "alt": {
+            "tr": "Karışık kır çiçeği buketi",
+            "en": "A mixed wildflower bouquet",
+            "ar": "باقة زهور برية مختلطة"
+          },
+          "url": "cicekler"
+        },
+        {
+          "ikon": "yard",
+          "ad": {
+            "tr": "Beyaz zambak aranjman",
+            "en": "White lily arrangement",
+            "ar": "تنسيق زنبق أبيض"
+          },
+          "ozet": {
+            "tr": "Vazo içinde şık beyaz aranjman.",
+            "en": "An elegant white arrangement in a vase.",
+            "ar": "تنسيق أبيض أنيق داخل مزهرية."
+          },
+          "maddeler": [],
+          "img": "cicekci-3-buket-zambak.webp",
+          "alt": {
+            "tr": "Beyaz zambak aranjmanı",
+            "en": "A white lily arrangement",
+            "ar": "تنسيق زنبق أبيض"
+          },
+          "url": "cicekler"
+        },
+        {
+          "ikon": "potted_plant",
+          "ad": {
+            "tr": "Saksı orkide",
+            "en": "Potted orchid",
+            "ar": "أوركيد في أصيص"
+          },
+          "ozet": {
+            "tr": "Uzun ömürlü, bakımı kolay saksı çiçeği.",
+            "en": "A long-lasting, easy-care potted flower.",
+            "ar": "نبتة أصيص طويلة العمر سهلة العناية."
+          },
+          "maddeler": [],
+          "img": "cicekci-3-hero-atolye.webp",
+          "alt": {
+            "tr": "Çiçeklerle dolu tezgâh",
+            "en": "A counter full of flowers",
+            "ar": "طاولة مليئة بالزهور"
+          },
+          "url": "cicekler"
+        },
+        {
+          "ikon": "celebration",
+          "ad": {
+            "tr": "Düğün ve organizasyon",
+            "en": "Weddings and events",
+            "ar": "الأعراس والفعاليات"
+          },
+          "ozet": {
+            "tr": "Masa, kapı ve alan süslemeleri; keşif için randevu gerekir.",
+            "en": "Table, entrance and venue decoration; a visit appointment is needed.",
+            "ar": "تزيين الطاولات والمداخل والقاعات؛ ويلزم موعد معاينة."
+          },
+          "maddeler": [],
+          "img": "cicekci-3-organizasyon.webp",
+          "alt": {
+            "tr": "Çiçeklerle süslenmiş uzun masa",
+            "en": "A long table decorated with flowers",
+            "ar": "طاولة طويلة مزينة بالزهور"
+          },
+          "url": "cicekler"
+        }
+      ],
+      "id": "0uu3ri",
+      "path": "hizmet-sekmeli",
+      "local": "body",
+      "index": 22
+    },
+    {
+      "name": "Zigzag Özellik",
+      "description": "Görsel-metin sırası satır satır değişen (sol/sağ) özellik anlatımı: numara rozeti, h3, paragraf, mini CTA; görsel kenarında dekoratif çerçeve/gölge. Kaydırmada satırlar sırayla belirir (IntersectionObserver; reduced-motion ya da JS yoksa hep görünür). desing.stil: cerceve | yuzen | sade. RTL'de sıra kendiliğinden aynalanır. Veri: data[] = [{baslik{tr,en,ar}, metin{}, img, alt{}, url, ctaLabel{}?}]. Renkler yalnız token; koyu mod otomatik.",
+      "version": "1.0.0",
+      "icon": "view_agenda",
+      "category": "ozellik",
+      "tags": [
+        "özellik",
+        "zigzag",
+        "features",
+        "görsel-metin",
+        "ar"
+      ],
+      "desing": {
+        "stil": "yuzen",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "20px",
+        "numara": true,
+        "eyebrow": {
+          "tr": "Hakkımızda",
+          "en": "About us",
+          "ar": "من نحن"
+        },
+        "title": {
+          "tr": "Sarı Papatya Çiçekçilik",
+          "en": "Sari Papatya Florist",
+          "ar": "ساري باباتيا للزهور"
+        },
+        "description": {
+          "tr": "Sarı Papatya Çiçekçilik, mevsiminde ve yakın kaynaktan temin edilen çiçeklerle çalışan kurgusal bir demo çiçekçidir. Alıcının adı, adresi ve telefonu sipariş veren kişiden alınan üçüncü kişi verisidir; yalnızca teslimat için kullanılır ve aydınlatma metnimizde açıklanır.",
+          "en": "Sari Papatya Florist is a fictional demo florist working with seasonal flowers from nearby sources. The recipient’s name, address and phone are third-party data obtained from the person placing the order; they are used only for delivery and are explained in our privacy notice.",
+          "ar": "ساري باباتيا للزهور محل زهور تجريبي افتراضي يعمل بزهور الموسم من مصادر قريبة. اسم المستلم وعنوانه وهاتفه بيانات طرف ثالث تُؤخذ من مقدّم الطلب؛ وتُستخدم للتسليم فقط ويُوضَّح ذلك في نص الخصوصية لدينا."
+        },
+        "ctaLabel": {
+          "tr": "Daha fazla",
+          "en": "Learn more",
+          "ar": "المزيد"
+        }
+      },
+      "data": [
+        {
+          "baslik": {
+            "tr": "Taze çiçek",
+            "en": "Fresh flowers",
+            "ar": "زهور طازجة"
+          },
+          "metin": {
+            "tr": "Çiçekler sabah soğuk zincirden alınır, gün içinde hazırlanır.",
+            "en": "Flowers are taken from cold storage in the morning and prepared during the day.",
+            "ar": "تُؤخذ الزهور من التبريد صباحًا وتُحضَّر خلال اليوم."
+          },
+          "img": "cicekci-3-buket-lale.webp",
+          "alt": {
+            "tr": "Vazoda renkli laleler",
+            "en": "Colourful tulips in a vase",
+            "ar": "توليب ملون في مزهرية"
+          },
+          "url": "hakkimizda"
+        },
+        {
+          "baslik": {
+            "tr": "El yapımı",
+            "en": "Handmade",
+            "ar": "صناعة يدوية"
+          },
+          "metin": {
+            "tr": "Her buket sipariş üzerine, elde hazırlanır.",
+            "en": "Every bouquet is made by hand to order.",
+            "ar": "تُصنع كل باقة يدويًا حسب الطلب."
+          },
+          "img": "cicekci-3-buket-kir.webp",
+          "alt": {
+            "tr": "Karışık kır çiçeği buketi",
+            "en": "A mixed wildflower bouquet",
+            "ar": "باقة زهور برية مختلطة"
+          },
+          "url": "hakkimizda"
+        },
+        {
+          "baslik": {
+            "tr": "Pembe gül buketi",
+            "en": "Pink rose bouquet",
+            "ar": "باقة ورد وردي"
+          },
+          "metin": {
+            "tr": "Kâğıtla sarılı, kurdeleli klasik gül buketi.",
+            "en": "A classic rose bouquet wrapped in paper and ribbon.",
+            "ar": "باقة ورد كلاسيكية ملفوفة بالورق والشريط."
+          },
+          "img": "cicekci-3-buket-zambak.webp",
+          "alt": {
+            "tr": "Beyaz zambak aranjmanı",
+            "en": "A white lily arrangement",
+            "ar": "تنسيق زنبق أبيض"
+          },
+          "url": "cicekler"
+        }
+      ],
+      "id": "m53v8t",
+      "path": "ozellik-zigzag",
+      "local": "body",
+      "index": 23
+    },
+    {
+      "name": "İstatistik Bandı 1",
+      "desing": {
+        "stil": "kartli",
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, color-mix(in srgb, var(--mx-site-primary, #2563eb) 42%, #000), color-mix(in srgb, var(--mx-site-primary, #2563eb) 24%, #000))",
+        "numbercolor": "#ffffff",
+        "labelcolor": "rgba(255,255,255,.88)",
+        "iconsize": "56px",
+        "iconbox": "88px"
+      },
+      "data": [
+        {
+          "number": 6,
+          "suffix": "",
+          "label": {
+            "tr": "Koleksiyon çeşidi",
+            "en": "Collection types",
+            "ar": "أنواع المجموعة"
+          },
+          "icon": "local_florist"
+        },
+        {
+          "number": 3,
+          "suffix": "",
+          "label": {
+            "tr": "Teslimat penceresi",
+            "en": "Delivery windows",
+            "ar": "فترات تسليم"
+          },
+          "icon": "schedule"
+        },
+        {
+          "number": 13,
+          "suffix": "",
+          "label": {
+            "tr": "Saat açık (günlük)",
+            "en": "Hours open per day",
+            "ar": "ساعات العمل يوميًا"
+          },
+          "icon": "storefront"
+        },
+        {
+          "number": 7,
+          "suffix": "",
+          "label": {
+            "tr": "Gün hizmet",
+            "en": "Days a week",
+            "ar": "أيام أسبوعيًا"
+          },
+          "icon": "calendar_month"
+        }
+      ],
+      "category": "stats",
+      "description": "İstatistik / sayaç bandı modülü. Rakamlar görünür olduğunda 0'dan hedefe animasyonlu sayar (IntersectionObserver + easeOutCubic; prefers-reduced-motion'da animasyonsuz). İkon, sonek (+, /7) ve çok dilli etiket destekler. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (gradient bant, numbercolor/labelcolor, bugünkü görünüm) · \"kartli\" (sayfa zemininde yüzey kartları, üstte primary çizgi, hover'da yükselir) · \"serit-renkli\" (tek renk primary/primary-contrast şeridi, ikon solda rakam+etiket yanında, dikey ayraçlar). Varyant renkleri yalnız var(--mx-site-*) token çiftleri.",
+      "version": "1.1.0",
+      "icon": "monitoring",
+      "id": "nps2hn",
+      "path": "stats-1",
+      "local": "body",
+      "index": 24
+    },
+    {
+      "name": {
+        "tr": "Yorum Karuseli 3",
+        "en": "Testimonial Carousel 3",
+        "ar": "شريط آراء العملاء 3"
+      },
+      "description": {
+        "tr": "Müşteri yorumları karuseli: yıldız + alıntı + kişi (avatar ya da baş harf, ad, unvan/şirket, isteğe bağlı logo). Otomatik kaydırma (durdur/başlat düğmesi, hover ve odakta durur, reduced-motion'da kapalı), nokta + ok, klavye (←/→), swipe (pointer). Bağımlılık yok. Üç varyant (desing.stil): kart-karusel · buyuk-alinti (tek, ortalı) · masonry (3 sütun statik duvar). Üç dil, RTL, koyu mod token'larla.",
+        "en": "Customer testimonial carousel: stars + quote + person (avatar or initials, name, role/company, optional logo). Autoplay (pause/play button, pauses on hover and focus, off under reduced-motion), dots + arrows, keyboard (←/→), swipe (pointer events). No dependencies. Three variants (desing.stil): kart-karusel · buyuk-alinti (single, centred) · masonry (static 3-column wall). Three languages, RTL, dark mode via tokens.",
+        "ar": "شريط آراء العملاء: نجوم + اقتباس + شخص (صورة أو أحرف أولى، الاسم، المسمّى/الشركة، شعار اختياري). تشغيل تلقائي (زر إيقاف/تشغيل، يتوقف عند التمرير والتركيز، معطّل عند تقليل الحركة)، نقاط وأسهم، لوحة مفاتيح، سحب. ثلاثة أنماط، ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "format_quote",
+      "category": "testimonial",
+      "tags": [
+        "yorum",
+        "testimonial",
+        "karusel",
+        "referans",
+        "review",
+        "ar"
+      ],
+      "desing": {
+        "max": "1200px",
+        "stil": "kart-karusel",
+        "autoplay": true,
+        "interval": 5000,
+        "bgcolor": "var(--mx-site-surface, #f6f6f4)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 70%, var(--mx-site-surface, #f6f6f4))",
+        "cardbg": "var(--mx-site-bg, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "starcolor": "color-mix(in srgb, var(--mx-color-warning, #d97706) 65%, var(--mx-site-text, #1b1b1b))",
+        "radius": "18px",
+        "title": {
+          "tr": "Ne diyorlar?",
+          "en": "What people say",
+          "ar": "ماذا يقولون؟"
+        },
+        "description": {
+          "tr": "Kurgusal örnek yorumlar; demo sitedir.",
+          "en": "Fictional sample reviews; this is a demo site.",
+          "ar": "آراء نموذجية افتراضية؛ هذا موقع تجريبي."
+        },
+        "regionLabel": {
+          "tr": "Müşteri yorumları",
+          "en": "Customer testimonials",
+          "ar": "آراء العملاء"
+        },
+        "prevLabel": {
+          "tr": "Önceki yorum",
+          "en": "Previous testimonial",
+          "ar": "الرأي السابق"
+        },
+        "nextLabel": {
+          "tr": "Sonraki yorum",
+          "en": "Next testimonial",
+          "ar": "الرأي التالي"
+        },
+        "pauseLabel": {
+          "tr": "Otomatik kaydırmayı durdur",
+          "en": "Pause autoplay",
+          "ar": "إيقاف التشغيل التلقائي"
+        },
+        "playLabel": {
+          "tr": "Otomatik kaydırmayı başlat",
+          "en": "Start autoplay",
+          "ar": "بدء التشغيل التلقائي"
+        },
+        "dotLabel": {
+          "tr": "{n}. sayfa",
+          "en": "Page {n}",
+          "ar": "الصفحة {n}"
+        },
+        "slideLabel": {
+          "tr": "{i} / {n}",
+          "en": "{i} of {n}",
+          "ar": "{i} من {n}"
+        },
+        "ratingLabel": {
+          "tr": "5 üzerinden {n} yıldız",
+          "en": "{n} out of 5 stars",
+          "ar": "{n} من 5 نجوم"
+        },
+        "quoteLabel": {
+          "tr": "Alıntı",
+          "en": "Quote",
+          "ar": "اقتباس"
+        }
+      },
+      "data": [
+        {
+          "name": "Aslı D.",
+          "role": {
+            "tr": "Müşteri",
+            "en": "Customer",
+            "ar": "عميلة"
+          },
+          "company": "",
+          "text": {
+            "tr": "Lale demeti tam zamanında ve çok tazeydi; teslimat penceresini mesajla teyit ettiler.",
+            "en": "The tulip bunch arrived right on time and very fresh; they confirmed the delivery window by message.",
+            "ar": "وصلت حزمة التوليب في الوقت المحدد وكانت طازجة جدًا؛ وأكدوا فترة التسليم برسالة."
+          },
+          "rating": 5,
+          "img": "",
+          "logo": ""
+        },
+        {
+          "name": "Cem B.",
+          "role": {
+            "tr": "Müşteri",
+            "en": "Customer",
+            "ar": "عميل"
+          },
+          "company": "",
+          "text": {
+            "tr": "Saksı orkide hediye ettim; bakım notu kutunun içindeydi.",
+            "en": "I gifted a potted orchid; a care note was inside the box.",
+            "ar": "أهديت أوركيد في أصيص؛ وكانت ملاحظة العناية داخل الصندوق."
+          },
+          "rating": 5,
+          "img": "",
+          "logo": ""
+        },
+        {
+          "name": "Nur S.",
+          "role": {
+            "tr": "Organizasyon",
+            "en": "Event client",
+            "ar": "عميلة فعاليات"
+          },
+          "company": "",
+          "text": {
+            "tr": "Açılış için masa süslemeleri sabah erkenden hazırdı.",
+            "en": "The table decorations for our opening were ready early in the morning.",
+            "ar": "كانت زينة الطاولات لحفل الافتتاح جاهزة في الصباح الباكر."
+          },
+          "rating": 4,
+          "img": "",
+          "logo": ""
+        }
+      ],
+      "id": "9ur9ck",
+      "path": "testimonial-3",
+      "local": "body",
+      "index": 25
+    },
+    {
+      "name": "Bant CTA (zengin) — CTA 3",
+      "description": "Tam genişlik iki sütunlu çağrı bandı: sol h2 + metin + 2 buton; sağ görsel/illüstrasyon ya da telefon-WhatsApp kartı (numara, saat). Arka plan: token zemin + hafif gradient katmanı + dekoratif daireler (CSS). desing.stil: gradient | gorselli (sağ sütun tam yükseklik görsel) | cerceveli-kart (içerik sayfa zemini üstünde yüzen kart). desing.sag: whatsapp | gorsel | yok. Zemin + yazı ÇİFT token (bgcolor = birincil, textcolor = birincil kontrast); WhatsApp kartı opak yüzey (cardbg/cardtext). Üç dil + RTL; koyu mod paletten.",
+      "version": "1.0.0",
+      "icon": "campaign",
+      "category": "cta",
+      "tags": [
+        "cta",
+        "çağrı",
+        "whatsapp",
+        "bant",
+        "banner",
+        "ar"
+      ],
+      "desing": {
+        "stil": "gradient",
+        "sag": "whatsapp",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-primary, #2563eb)",
+        "textcolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 97%, var(--mx-site-primary, #2563eb))",
+        "pagebg": "var(--mx-site-bg, #ffffff)",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "cardtext": "var(--mx-site-text, #1b1b1b)",
+        "cardmuted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-surface, #ffffff))",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "radius": "24px",
+        "title": {
+          "tr": "Çiçeğinizi şimdi talep edin",
+          "en": "Request your flowers now",
+          "ar": "اطلب زهورك الآن"
+        },
+        "text": {
+          "tr": "Çiçekler çabuk bozulan mallardır; 6502 sayılı Kanun md. 15/c uyarınca bu ürünlerde cayma hakkı kullanılamaz. Hasarlı ya da yanlış teslimde aynı gün bildirimle yenileme yapılır.",
+          "en": "Flowers are perishable goods; under Law No. 6502 art. 15/c the right of withdrawal cannot be exercised for them. For damaged or wrong deliveries, report the same day and we will replace the order.",
+          "ar": "الزهور سلع سريعة التلف؛ وبموجب المادة 15/ج من القانون التركي رقم 6502 لا يمكن ممارسة حق العدول عنها. وفي حال التسليم التالف أو الخاطئ يُبلَّغ في اليوم نفسه ويُستبدل الطلب."
+        },
+        "btn1Label": {
+          "tr": "Sipariş talebi",
+          "en": "Order request",
+          "ar": "طلب شراء"
+        },
+        "btn1Url": "siparis-talebi",
+        "btn2Label": {
+          "tr": "Teslimat ve iade",
+          "en": "Delivery and returns",
+          "ar": "التسليم والإرجاع"
+        },
+        "btn2Url": "teslimat-iade",
+        "number": "903420000000",
+        "numberText": "+90 342 000 00 00",
+        "waLabel": {
+          "tr": "Mesaj gönder",
+          "en": "Send a message",
+          "ar": "إرسال رسالة"
+        },
+        "waTitle": {
+          "tr": "WhatsApp ile yazın",
+          "en": "Message us on WhatsApp",
+          "ar": "راسلنا على واتساب"
+        },
+        "hours": {
+          "tr": "Her gün 08:00 – 21:00 · Aynı gün teslimat için 15:00’e kadar sipariş",
+          "en": "Daily 08:00 – 21:00 · Order by 15:00 for same-day delivery",
+          "ar": "يوميًا 08:00 – 21:00 · اطلب قبل 15:00 للتسليم في اليوم نفسه"
+        },
+        "hoursLabel": {
+          "tr": "Çalışma saatleri",
+          "en": "Working hours",
+          "ar": "ساعات العمل"
+        },
+        "waMessage": {
+          "tr": "Merhaba, bilgi almak istiyorum.",
+          "en": "Hello, I would like some information.",
+          "ar": "مرحبًا، أرغب في الحصول على معلومات."
+        },
+        "img": "",
+        "alt": {
+          "tr": "Ekibimizle görüşme",
+          "en": "Meeting with our team",
+          "ar": "اجتماع مع فريقنا"
+        }
+      },
+      "data": [],
+      "id": "sj00al",
+      "path": "cta-3",
+      "local": "body",
+      "index": 26
+    },
+    {
+      "name": {
+        "tr": "Hızlı İletişim Kartları",
+        "en": "Quick Contact Cards",
+        "ar": "بطاقات الاتصال السريع"
+      },
+      "description": {
+        "tr": "3–4 hızlı eylem kartı: Ara (tel:), WhatsApp (wa.me hazır mesaj), E-posta (mailto:), Yol tarifi (harita bağlantısı). Her kart ikon + başlık + değer + eylem düğmesi; hover'da yükselir. Veri boş olan kart basılmaz; phone/email boşsa setting'den. Üç varyant (desing.stil): kartli · ikon-serit · dikey-liste. Üç dil, RTL, koyu mod token'larla.",
+        "en": "3–4 quick action cards: Call (tel:), WhatsApp (wa.me prefilled), E-mail (mailto:), Directions (map link). Each card has icon + title + value + action button; lifts on hover. Cards without data are omitted; phone/email fall back to setting. Three variants (desing.stil): kartli · ikon-serit · dikey-liste. Three languages, RTL, dark mode via tokens.",
+        "ar": "3–4 بطاقات إجراء سريع: اتصال (tel:)، واتساب (رسالة جاهزة)، بريد إلكتروني (mailto:)، الاتجاهات (رابط خريطة). كل بطاقة: أيقونة + عنوان + قيمة + زر. البطاقات بلا بيانات لا تُعرض. ثلاثة أنماط، ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "contact_phone",
+      "category": "contact",
+      "tags": [
+        "iletisim",
+        "contact",
+        "whatsapp",
+        "telefon",
+        "harita",
+        "ar"
+      ],
+      "desing": {
+        "max": "1200px",
+        "stil": "dikey-liste",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "radius": "18px",
+        "title": {
+          "tr": "Bize ulaşın",
+          "en": "Reach us",
+          "ar": "تواصل معنا"
+        },
+        "description": {
+          "tr": "Her gün 08:00 – 21:00 · Aynı gün teslimat için 15:00’e kadar sipariş",
+          "en": "Daily 08:00 – 21:00 · Order by 15:00 for same-day delivery",
+          "ar": "يوميًا 08:00 – 21:00 · اطلب قبل 15:00 للتسليم في اليوم نفسه"
+        },
+        "phone": "+90 342 000 00 00",
+        "whatsapp": "903420000000",
+        "email": "siparis@saripapatya.example",
+        "address": {
+          "tr": "Çiçek Sk. No: 5, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "5 Cicek Street, Sahinbey, Gaziantep (fictional address)",
+          "ar": "شارع الزهور رقم 5، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "mapsUrl": "",
+        "waMessage": {
+          "tr": "Merhaba, bilgi almak istiyorum.",
+          "en": "Hello, I would like some information.",
+          "ar": "مرحبًا، أرغب في الحصول على معلومات."
+        },
+        "callTitle": {
+          "tr": "Bizi Arayın",
+          "en": "Call Us",
+          "ar": "اتصل بنا"
+        },
+        "callText": {
+          "tr": "Her gün 08:00 – 21:00 · Aynı gün teslimat için 15:00’e kadar sipariş",
+          "en": "Daily 08:00 – 21:00 · Order by 15:00 for same-day delivery",
+          "ar": "يوميًا 08:00 – 21:00 · اطلب قبل 15:00 للتسليم في اليوم نفسه"
+        },
+        "callBtn": {
+          "tr": "Ara",
+          "en": "Call",
+          "ar": "اتصال"
+        },
+        "waTitle": {
+          "tr": "WhatsApp",
+          "en": "WhatsApp",
+          "ar": "واتساب"
+        },
+        "waText": {
+          "tr": "Hızlı yanıt için yazın",
+          "en": "Message us for a quick reply",
+          "ar": "راسلنا للحصول على رد سريع"
+        },
+        "waBtn": {
+          "tr": "Mesaj gönder",
+          "en": "Send message",
+          "ar": "إرسال رسالة"
+        },
+        "mailTitle": {
+          "tr": "E-posta",
+          "en": "E-mail",
+          "ar": "البريد الإلكتروني"
+        },
+        "mailText": {
+          "tr": "Teklif ve detaylı sorular için",
+          "en": "For quotes and detailed questions",
+          "ar": "لعروض الأسعار والأسئلة التفصيلية"
+        },
+        "mailBtn": {
+          "tr": "E-posta gönder",
+          "en": "Send e-mail",
+          "ar": "إرسال بريد"
+        },
+        "mapTitle": {
+          "tr": "Yol Tarifi",
+          "en": "Directions",
+          "ar": "الاتجاهات"
+        },
+        "mapBtn": {
+          "tr": "Haritada aç",
+          "en": "Open in maps",
+          "ar": "فتح في الخرائط"
+        },
+        "groupLabel": {
+          "tr": "Hızlı iletişim kanalları",
+          "en": "Quick contact channels",
+          "ar": "قنوات الاتصال السريع"
+        }
+      },
+      "data": [],
+      "id": "ruzcnr",
+      "path": "iletisim-kartlari",
+      "local": "body",
+      "index": 27
+    },
+    {
+      "name": {
+        "tr": "Footer 10 — Mega footer (CTA bantlı)",
+        "en": "Footer 10 — Mega footer (CTA band)",
+        "ar": "تذييل 10 — تذييل ضخم (شريط دعوة)"
+      },
+      "description": {
+        "tr": "Mega alt bilgi: üstte bülten/CTA bandı (e-posta kutusu + düğme — gönderim mailto ya da kapalı; KVKK notu), altında 5 sütun (marka + açıklama + sosyal · sayfalar (maxpages) · hizmetler · iletişim · çalışma saatleri; boş sütun basılmaz, sütun sınıfı otomatik), en altta telif + yasal bağlantılar + dil seçici + «yukarı» düğmesi. Üç varyant (desing.stil): koyu · acik · gradient-ust. Üç dil, RTL, koyu mod token'larla.",
+        "en": "Mega footer: newsletter/CTA band on top (e-mail box + button — mailto submission or disabled; privacy note), 5 columns below (brand + about + social · pages (maxpages) · services · contact · opening hours; empty columns are omitted, column class is automatic), bottom bar with copyright + legal links + language switcher + «back to top». Three variants (desing.stil): koyu · acik · gradient-ust. Three languages, RTL, dark mode via tokens.",
+        "ar": "تذييل ضخم: شريط نشرة بريدية/دعوة في الأعلى (حقل بريد + زر؛ إرسال mailto أو معطّل؛ ملاحظة خصوصية)، 5 أعمدة (العلامة + نبذة + تواصل · الصفحات · الخدمات · الاتصال · ساعات العمل)، شريط سفلي بحقوق النشر والروابط القانونية ومبدّل اللغة وزر «إلى الأعلى». ثلاثة أنماط، ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "footer",
+      "category": "footer",
+      "tags": [
+        "footer",
+        "bulten",
+        "newsletter",
+        "mega",
+        "ar"
+      ],
+      "desing": {
+        "stil": "koyu",
+        "showlang": true,
+        "maxpages": 8,
+        "koyubg": "color-mix(in srgb, #0f172a 86%, var(--mx-site-primary, #2563eb))",
+        "koyutext": "#f1f5f9",
+        "acikbg": "var(--mx-site-surface, #f6f6f4)",
+        "aciktext": "var(--mx-site-text, #1b1b1b)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "errcolor": "var(--mx-color-danger, #b42318)",
+        "radius": "16px",
+        "logo_maxh": "52px",
+        "logo_plate": false,
+        "about": {
+          "tr": "Sarı Papatya Çiçekçilik: renkli buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+          "en": "Sari Papatya Florist: colourful bouquets, arrangements, wedding and event flowers; same-day delivery requests. (Demo site)",
+          "ar": "ساري باباتيا للزهور: باقات ملونة وتنسيقات وزهور الأعراس والفعاليات مع طلب التسليم في اليوم نفسه. (موقع تجريبي)"
+        },
+        "nlShow": true,
+        "nlGonderim": "mailto",
+        "nlEmail": "siparis@saripapatya.example",
+        "nlTitle": {
+          "tr": "Gelişmelerden haberdar olun",
+          "en": "Stay in the loop",
+          "ar": "ابقَ على اطلاع"
+        },
+        "nlText": {
+          "tr": "Ayda bir bülten; kampanya ve yeniliklerden ilk siz haberdar olun.",
+          "en": "One newsletter a month; be the first to hear about offers and news.",
+          "ar": "نشرة واحدة شهريًا؛ كن أول من يعرف بالعروض والمستجدات."
+        },
+        "nlLabel": {
+          "tr": "E-posta adresiniz",
+          "en": "Your e-mail address",
+          "ar": "بريدك الإلكتروني"
+        },
+        "nlBtn": {
+          "tr": "Abone ol",
+          "en": "Subscribe",
+          "ar": "اشترك"
+        },
+        "nlKvkk": {
+          "tr": "Abone olarak e-posta adresinizin bülten amacıyla işlenmesini kabul edersiniz. İstediğiniz an ayrılabilirsiniz.",
+          "en": "By subscribing you agree to the processing of your e-mail address for the newsletter. You can unsubscribe at any time.",
+          "ar": "بالاشتراك توافق على معالجة بريدك الإلكتروني لأغراض النشرة. يمكنك إلغاء الاشتراك في أي وقت."
+        },
+        "nlSubject": {
+          "tr": "Bülten aboneliği",
+          "en": "Newsletter subscription",
+          "ar": "الاشتراك في النشرة"
+        },
+        "nlBody": {
+          "tr": "Merhaba, bültene abone olmak istiyorum.",
+          "en": "Hello, I would like to subscribe to the newsletter.",
+          "ar": "مرحبًا، أرغب في الاشتراك في النشرة البريدية."
+        },
+        "nlErr": {
+          "tr": "Geçerli bir e-posta adresi girin.",
+          "en": "Enter a valid e-mail address.",
+          "ar": "أدخل بريدًا إلكترونيًا صالحًا."
+        },
+        "nlOk": {
+          "tr": "E-posta uygulamanız açılıyor; aboneliği oradan onaylayın.",
+          "en": "Your e-mail app is opening; confirm the subscription there.",
+          "ar": "يتم فتح تطبيق البريد؛ أكّد الاشتراك من هناك."
+        },
+        "title_pages": {
+          "tr": "Sayfalar",
+          "en": "Pages",
+          "ar": "الصفحات"
+        },
+        "title_services": {
+          "tr": "Hizmetler",
+          "en": "Services",
+          "ar": "الخدمات"
+        },
+        "title_contact": {
+          "tr": "İletişim",
+          "en": "Contact",
+          "ar": "اتصل بنا"
+        },
+        "title_hours": {
+          "tr": "Çalışma Saatleri",
+          "en": "Opening Hours",
+          "ar": "ساعات العمل"
+        },
+        "title_social": {
+          "tr": "Bizi takip edin",
+          "en": "Follow us",
+          "ar": "تابعنا"
+        },
+        "services": [
+          {
+            "name": {
+              "tr": "Pembe gül buketi",
+              "en": "Pink rose bouquet",
+              "ar": "باقة ورد وردي"
+            },
+            "href": "cicekler"
+          },
+          {
+            "name": {
+              "tr": "Lale demeti",
+              "en": "Tulip bunch",
+              "ar": "حزمة توليب"
+            },
+            "href": "cicekler"
+          },
+          {
+            "name": {
+              "tr": "Kır çiçeği buketi",
+              "en": "Wildflower bouquet",
+              "ar": "باقة زهور برية"
+            },
+            "href": "cicekler"
+          },
+          {
+            "name": {
+              "tr": "Beyaz zambak aranjman",
+              "en": "White lily arrangement",
+              "ar": "تنسيق زنبق أبيض"
+            },
+            "href": "cicekler"
+          }
+        ],
+        "hours": [
+          {
+            "days": {
+              "tr": "Çalışma saatleri",
+              "en": "Working hours",
+              "ar": "ساعات العمل"
+            },
+            "time": {
+              "tr": "Her gün 08:00 – 21:00 · Aynı gün teslimat için 15:00’e kadar sipariş",
+              "en": "Daily 08:00 – 21:00 · Order by 15:00 for same-day delivery",
+              "ar": "يوميًا 08:00 – 21:00 · اطلب قبل 15:00 للتسليم في اليوم نفسه"
+            }
+          }
+        ],
+        "address": {
+          "tr": "Çiçek Sk. No: 5, Şahinbey, Gaziantep (kurgusal adres)",
+          "en": "5 Cicek Street, Sahinbey, Gaziantep (fictional address)",
+          "ar": "شارع الزهور رقم 5، شاهين بي، غازي عنتاب (عنوان افتراضي)"
+        },
+        "phone": "+90 342 000 00 00",
+        "email": "siparis@saripapatya.example",
+        "social": [],
+        "legal": [
+          {
+            "text": {
+              "tr": "Gizlilik",
+              "en": "Privacy",
+              "ar": "الخصوصية"
+            },
+            "href": "gizlilikpolitikasi"
+          },
+          {
+            "text": {
+              "tr": "Kişisel veriler",
+              "en": "Personal data",
+              "ar": "البيانات الشخصية"
+            },
+            "href": "kisiselveriler"
+          }
+        ],
+        "rightsText": {
+          "tr": "Tüm hakları saklıdır.",
+          "en": "All rights reserved.",
+          "ar": "جميع الحقوق محفوظة."
+        },
+        "topLabel": {
+          "tr": "Yukarı çık",
+          "en": "Back to top",
+          "ar": "العودة إلى الأعلى"
+        }
+      },
+      "data": [],
+      "id": "gz2ylu",
+      "path": "footer-10",
+      "local": "footer",
+      "index": 28
+    },
+    {
+      "name": "Süreç Adımları",
+      "description": "3–6 adımlık süreç anlatımı: çizgi/ok ile bağlı daire numaralar, altında başlık + metin. Aktif adım vurgusu kaydırmayla ilerler (IntersectionObserver; JS yoksa tüm adımlar düz görünür). desing.stil: yatay (çizgiyle bağlı sıra; mobilde dikey zaman çizgisi) | dikey (iki yanlı zaman çizgisi) | kartli (kart + ok ayraç). Veri: data[] = [{no?, baslik{tr,en,ar}, metin{}, ikon?}]. Renkler yalnız token; koyu mod otomatik; RTL'de ok/çizgi yönü aynalanır.",
+      "version": "1.0.0",
+      "icon": "timeline",
+      "category": "surec",
+      "tags": [
+        "süreç",
+        "adım",
+        "zaman çizgisi",
+        "process",
+        "steps",
+        "ar"
+      ],
+      "desing": {
+        "stil": "yatay",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "16px",
+        "eyebrow": {
+          "tr": "Sipariş",
+          "en": "Ordering",
+          "ar": "الطلب"
+        },
+        "title": {
+          "tr": "Talepten teslimata",
+          "en": "From request to delivery",
+          "ar": "من الطلب إلى التسليم"
+        },
+        "description": {
+          "tr": "Dört adımda çiçek gönderin.",
+          "en": "Send flowers in four steps.",
+          "ar": "أرسل زهورًا بأربع خطوات."
+        },
+        "stepLabel": {
+          "tr": "Adım {n}",
+          "en": "Step {n}",
+          "ar": "الخطوة {n}"
+        },
+        "listLabel": {
+          "tr": "Süreç adımları",
+          "en": "Process steps",
+          "ar": "خطوات العملية"
+        }
+      },
+      "data": [
+        {
+          "no": 1,
+          "baslik": {
+            "tr": "Seçim",
+            "en": "Choose",
+            "ar": "الاختيار"
+          },
+          "metin": {
+            "tr": "Buketi ve teslimat gününü seçin.",
+            "en": "Pick the bouquet and delivery day.",
+            "ar": "اختر الباقة ويوم التسليم."
+          },
+          "ikon": "forum"
+        },
+        {
+          "no": 2,
+          "baslik": {
+            "tr": "Kart notu",
+            "en": "Card message",
+            "ar": "رسالة البطاقة"
+          },
+          "metin": {
+            "tr": "İsterseniz kısa bir not yazın.",
+            "en": "Add a short note if you like.",
+            "ar": "اكتب ملاحظة قصيرة إن أردت."
+          },
+          "ikon": "draw"
+        },
+        {
+          "no": 3,
+          "baslik": {
+            "tr": "Onay",
+            "en": "Confirmation",
+            "ar": "التأكيد"
+          },
+          "metin": {
+            "tr": "Talebiniz teyit edilir ve teslimat penceresi bildirilir.",
+            "en": "Your request is confirmed and the delivery window is shared.",
+            "ar": "يُؤكَّد طلبك وتُبلَّغ بفترة التسليم."
+          },
+          "ikon": "construction"
+        },
+        {
+          "no": 4,
+          "baslik": {
+            "tr": "Teslimat",
+            "en": "Delivery",
+            "ar": "التسليم"
+          },
+          "metin": {
+            "tr": "Çiçekler özenle paketlenip adrese ulaştırılır.",
+            "en": "The flowers are carefully packed and delivered to the address.",
+            "ar": "تُغلَّف الزهور بعناية وتُسلَّم إلى العنوان."
+          },
+          "ikon": "verified"
+        }
+      ],
+      "id": "xro0vs",
+      "path": "surec-adimlar",
+      "local": "body",
+      "index": 29
+    }
+  ]
+}

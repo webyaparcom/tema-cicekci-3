@@ -1,0 +1,39 @@
+{
+  "id": "qtizmp47k3",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Buketler, aranjmanlar ve organizasyon çalışmalarından görüntüler.",
+    "en": "Views of bouquets, arrangements and event work.",
+    "ar": "صور من الباقات والتنسيقات وأعمال الفعاليات."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "nh44oz"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-31T14:42:46.681Z",
+  "update": "2026-11-05T19:38:44.334Z"
+}
