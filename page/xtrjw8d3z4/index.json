@@ -3,7 +3,7 @@
   "name": {
     "tr": "Sipariş Talebi",
     "en": "Order Request",
-    "ar": "طلب شراء"
+    "ar": "طلب زهور"
   },
   "description": {
     "tr": "Ürünü ve teslimat gününü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Ödeme alınmaz. ",
@@ -32,8 +32,8 @@
   "title": {
     "tr": "Sipariş Talebi",
     "en": "Order Request",
-    "ar": "طلب شراء"
+    "ar": "طلب زهور"
   },
   "date": "2026-10-31T14:42:46.678Z",
-  "update": "2026-11-05T19:38:44.331Z"
+  "update": "2026-11-12T07:35:17.185Z"
 }

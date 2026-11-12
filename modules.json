@@ -980,7 +980,7 @@
         "title": {
           "tr": "Çiçek sipariş talebi",
           "en": "Flower order request",
-          "ar": "طلب شراء زهور"
+          "ar": "طلب زهور"
         },
         "description": {
           "tr": "Ürünü ve teslimat gününü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Ödeme alınmaz. ",
@@ -1740,6 +1740,12 @@
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
           "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "girisHref": "",
+        "girisText": {
+          "tr": "Üye Girişi",
+          "en": "Login",
+          "ar": "تسجيل الدخول"
         }
       },
       "id": "10f26m",
@@ -1787,7 +1793,7 @@
         "cta": {
           "tr": "Sipariş talebi",
           "en": "Order request",
-          "ar": "طلب شراء"
+          "ar": "طلب زهور"
         },
         "cta_url": "siparis-talebi"
       },
@@ -1897,16 +1903,16 @@
           "cta": {
             "tr": "Sipariş talebi",
             "en": "Order request",
-            "ar": "طلب شراء"
+            "ar": "طلب زهور"
           },
           "url": "siparis-talebi"
         },
         {
           "img": "cicekci-3-buket-lale.webp",
           "alt": {
-            "tr": "Karışık kır çiçeği buketi",
-            "en": "A mixed wildflower bouquet",
-            "ar": "باقة زهور برية مختلطة"
+            "tr": "Vazoda renkli laleler",
+            "en": "Colourful tulips in a vase",
+            "ar": "توليب ملون في مزهرية"
           },
           "eyebrow": {
             "tr": "Mevsim laleleri",
@@ -1933,9 +1939,9 @@
         {
           "img": "cicekci-3-organizasyon.webp",
           "alt": {
-            "tr": "Karışık kır çiçeği buketi",
-            "en": "A mixed wildflower bouquet",
-            "ar": "باقة زهور برية مختلطة"
+            "tr": "Çiçeklerle süslenmiş uzun masa",
+            "en": "A long table decorated with flowers",
+            "ar": "طاولة طويلة مزينة بالزهور"
           },
           "eyebrow": {
             "tr": "Düğün ve organizasyon",
@@ -1955,7 +1961,7 @@
           "cta": {
             "tr": "Sipariş talebi",
             "en": "Order request",
-            "ar": "طلب شراء"
+            "ar": "طلب زهور"
           },
           "url": "siparis-talebi"
         }
@@ -2302,8 +2308,8 @@
           "number": 13,
           "suffix": "",
           "label": {
-            "tr": "Saat açık (günlük)",
-            "en": "Hours open per day",
+            "tr": "Günlük açık saat",
+            "en": "Open hours a day",
             "ar": "ساعات العمل يوميًا"
           },
           "icon": "storefront"
@@ -2312,9 +2318,9 @@
           "number": 7,
           "suffix": "",
           "label": {
-            "tr": "Gün hizmet",
-            "en": "Days a week",
-            "ar": "أيام أسبوعيًا"
+            "tr": "Haftada açık gün",
+            "en": "Days open a week",
+            "ar": "أيام العمل أسبوعيًا"
           },
           "icon": "calendar_month"
         }
@@ -2518,7 +2524,7 @@
         "btn1Label": {
           "tr": "Sipariş talebi",
           "en": "Order request",
-          "ar": "طلب شراء"
+          "ar": "طلب زهور"
         },
         "btn1Url": "siparis-talebi",
         "btn2Label": {
